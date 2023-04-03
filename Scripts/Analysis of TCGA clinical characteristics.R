@@ -1,8 +1,7 @@
 # Associate ploidy with outcome
 # Survival data from https://xenabrowser.net/datapages/?dataset=TCGA-OV.survival.tsv&host=https%3A%2F%2Fgdc.xenahubs.net&removeHub=https%3A%2F%2Fxena.treehouse.gi.ucsc.edu%3A443
-setwd("/Users/saachisachdev/GitHub/CI Project 1/CNV analysis")
 
-surv_data <- read.delim("TCGA-OV.survival.tsv")
+surv_data <- read.delim("../data/TCGA-OV.survival.tsv")
 head(surv_data)
 
 # ClustNum contains ploidy information
