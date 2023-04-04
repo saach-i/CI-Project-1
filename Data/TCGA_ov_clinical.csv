@@ -1,0 +1,631 @@
+"","age_at_initial_pathologic_diagnosis","Stage","lymphatic_invasion","Grade","tumor_residual_disease","Surgery.outcome","venous_invasion","Overall.survival..days.","OS.event","primary_therapy_outcome_success","RPV","eRPV","Thickness","Progression.free.survival..days.","PFS.event","Molecular.subtype","Stromal.cell.content....","Tumour.cell.content...."
+"TCGA.09.0367.01",67,3,"YES",3,"1-10 mm",0,"YES",547,1,"Progressive Disease",-0.262690600161133,-0.0225758899960976,5,NA,NA,"Differentiated",9,90
+"TCGA.09.0369.01",56,3,"YES",3,"No Macroscopic disease",0,"YES",1082,1,"Complete Remission/Response",0.234334303066058,-0.0378123318622411,4.956521988,273,1,"Proliferative",5,95
+"TCGA.09.1667.01",61,2,"NO",2,"No Macroscopic disease",0,"NO",1882,0,"Complete Remission/Response",-0.138114935515168,-0.0395108829076982,5,460,1,"Immunoreactive",7,83
+"TCGA.09.1669.01",54,3,"NO",3,"No Macroscopic disease",0,"NO",928,0,"Complete Remission/Response",-0.207393290033512,0.077670365445044,5,927,0,"Proliferative",30,65
+"TCGA.09.1672.01",78,3,"YES",1,"",NA,"YES",178,0,"",-0.265002717015865,0.0327742974647289,2,178,0,NA,15,85
+"TCGA.09.1673.01",50,4,"YES",3,">20 mm",1,"YES",92,0,"",-0.217062903809817,-0.0509711331842707,5,92,0,"Proliferative",5,85
+"TCGA.09.1674.01",79,3,"NO",3,"1-10 mm",0,"NO",260,0,"Complete Remission/Response",-0.339500973827907,-0.259548462825265,4.5,260,0,"Proliferative",5,90
+"TCGA.09.2043.01",69,1,"NO",3,"No Macroscopic disease",0,"NO",188,0,"Complete Remission/Response",-0.393619005930555,-0.290821550414827,3,187,0,NA,10,90
+"TCGA.09.2044.01",77,2,"NO",3,"No Macroscopic disease",0,"NO",186,0,"Complete Remission/Response",-0.386371744014015,-0.352807465640156,5,186,0,"Immunoreactive",9,90
+"TCGA.09.2045.01",50,4,"YES",2,"1-10 mm",0,"YES",1069,1,"Stable Disease",0.284973767519538,0.020539863776689,8.374545097,631,1,"Differentiated",10,90
+"TCGA.09.2050.01",65,2,"NO",2,"No Macroscopic disease",0,"NO",2163,0,"Complete Remission/Response",-0.410590852233799,-0.232406101678964,5,2163,0,"Proliferative",10,90
+"TCGA.09.2051.01",42,3,"YES",3,"No Macroscopic disease",0,"YES",1919,0,"Complete Remission/Response",0.00806433394836237,-0.184666165478361,5,583,1,"Immunoreactive",10,90
+"TCGA.09.2053.01",72,3,"NO",3,"No Macroscopic disease",0,"NO",1209,0,"Complete Remission/Response",-0.113432527280182,-0.0488823637807922,3.5055058,1209,0,"Proliferative",10,90
+"TCGA.09.2054.01",58,3,"YES",3,"1-10 mm",0,"YES",637,1,"Progressive Disease",-0.0765987776074965,-0.0853092273401225,5,NA,NA,"Proliferative",10,90
+"TCGA.09.2055.01",48,1,"NO",3,"No Macroscopic disease",0,"NO",819,0,"Complete Remission/Response",-0.685253087887182,-0.377526586917349,5,819,0,NA,10,89
+"TCGA.13.0720.01",48,3,"",3,"1-10 mm",0,"",1355,1,"Complete Remission/Response",-0.0615424009020359,-0.0623498848636154,7.257121086,292,1,"Differentiated",2,85
+"TCGA.13.0762.01",65,3,"",3,"No Macroscopic disease",0,"",981,0,"Complete Remission/Response",0.143907634775635,0.0864144366568604,4.935064793,981,0,"Proliferative",NA,NA
+"TCGA.13.0768.01",73,3,"",3,"1-10 mm",0,"",257,0,"Complete Remission/Response",-0.230123371842301,0.241641103432725,5,256,0,"Mesenchymal",NA,89
+"TCGA.13.0793.01",40,4,"",3,"1-10 mm",0,"",873,0,"Complete Remission/Response",0.22889051907923,0.0906518359621518,5,351,1,"Mesenchymal",20,80
+"TCGA.13.0794.01",60,3,"",3,"1-10 mm",0,"",923,0,"Complete Remission/Response",-0.284091491861794,-0.128426849340535,6,845,1,"Proliferative",5,95
+"TCGA.13.0795.01",66,3,"",3,">20 mm",1,"",596,0,"Complete Remission/Response",0.0676884434683597,-0.0313490825304966,4.94623661,325,1,"Immunoreactive",15,85
+"TCGA.13.0797.01",49,3,"",3,"1-10 mm",0,"",265,0,"Complete Remission/Response",-0.733998883398019,-0.360163474314446,5,265,0,"Differentiated",5,95
+"TCGA.13.0799.01",44,3,"",3,"No Macroscopic disease",0,"",237,0,"Complete Remission/Response",-0.282665107752925,-0.401984016762081,4.844961166,237,0,"Proliferative",5,95
+"TCGA.13.0802.01",79,3,"",3,"No Macroscopic disease",0,"",249,0,"Complete Remission/Response",0.411737712744745,0.252488479648368,5,249,0,"Proliferative",20,80
+"TCGA.13.0807.01",54,3,"",3,">20 mm",1,"",414,1,"",0.666015795128409,0.14901727268672,2.200000048,NA,NA,"Mesenchymal",20,70
+"TCGA.13.0883.01",61,3,"",3,"1-10 mm",0,"",2097,1,"Complete Remission/Response",-0.162024161158511,-0.15640980827164,7.370154381,818,1,"Differentiated",0,78
+"TCGA.13.0904.01",63,3,"",3,">20 mm",1,"",1470,0,"Partial Remission/Response",0.183708662523699,0.114979793620868,4.898989677,329,1,"Differentiated",1,90
+"TCGA.13.0916.01",49,3,"",3,"No Macroscopic disease",0,"",644,0,"Complete Remission/Response",0.622104060527926,-0.0309223453716455,5,643,0,"Proliferative",5,95
+"TCGA.13.0920.01",65,3,"",3,"1-10 mm",0,"",420,0,"Complete Remission/Response",-0.343143497425014,-0.527069236224543,2,297,1,"Proliferative",20,80
+"TCGA.13.0921.01",72,3,"",3,"No Macroscopic disease",0,"",141,0,"Complete Remission/Response",-0.305764857439162,-0.342044928018704,5,141,0,"Differentiated",5,95
+"TCGA.13.0924.01",45,4,"",3,"1-10 mm",0,"",185,0,"Complete Remission/Response",0.251223736979008,0.205509289562305,5,185,0,"Immunoreactive",25,75
+"TCGA.13.1405.01",49,4,"",3,"1-10 mm",0,"",224,0,"Complete Remission/Response",0.0248720218633642,0.135660112741929,4.92481184,224,0,"Mesenchymal",15,84
+"TCGA.13.1408.01",59,3,"",3,">20 mm",1,"",180,0,"Partial Remission/Response",0.54982927523462,0.360024465695342,2.5,180,0,"Mesenchymal",20,80
+"TCGA.13.1410.01",57,4,"",NA,"",NA,"",143,0,"Complete Remission/Response",-0.234813888363912,0.109579582016879,2,143,0,"Immunoreactive",5,95
+"TCGA.13.1412.01",41,4,"",3,"1-10 mm",0,"",162,0,"Complete Remission/Response",-0.219455644633788,0.0623809530366935,3.75,162,0,"Mesenchymal",10,89
+"TCGA.13.1488.01",59,4,"",3,"11-20 mm",1,"",2154,1,"Complete Remission/Response",-0.509492159795353,-0.262520116766421,7.379032135,351,1,"Immunoreactive",15,80
+"TCGA.13.1495.01",60,3,"",2,"1-10 mm",0,"",1498,0,"Complete Remission/Response",-0.285622009707312,0.00491347482324835,7.375,977,1,"Differentiated",20,79
+"TCGA.13.1499.01",56,3,"",3,"",NA,"",1168,0,"Complete Remission/Response",-0.218318537991125,0.106531321960826,4.922480583,582,1,"Mesenchymal",20,79
+"TCGA.13.1505.01",63,3,"",3,"1-10 mm",0,"",128,0,"Complete Remission/Response",-0.51382931858396,0.0698147903667373,4.920634747,128,0,"Mesenchymal",10,90
+"TCGA.13.1506.01",45,3,"",3,"",NA,"",134,0,"Complete Remission/Response",-0.142749393866917,-0.227381428659368,5,134,0,"Proliferative",1,98
+"TCGA.13.1507.01",77,3,"",3,"1-10 mm",0,"",145,0,"Complete Remission/Response",-0.0596760812909155,0.0405455111891207,4.918699265,145,0,"Immunoreactive",5,90
+"TCGA.13.1509.01",64,4,"",3,"1-10 mm",0,"",127,0,"Complete Remission/Response",-0.267925606047319,-0.0375802471590617,5,126,0,"Mesenchymal",10,85
+"TCGA.13.1511.01",52,4,"",3,">20 mm",1,"",119,0,"Partial Remission/Response",-0.0507746353371571,0.0757968183916224,4.84126997,118,0,"Differentiated",5,90
+"TCGA.13.2059.01",50,3,"",3,"1-10 mm",0,"",372,0,"Complete Remission/Response",-0.0272193833743508,0.219394044101889,4.93065691,372,0,NA,10,90
+"TCGA.13.2060.01",51,4,"",3,"1-10 mm",0,"",262,0,"Complete Remission/Response",-0.274908510956516,-0.115398550934904,2.5,261,0,"Immunoreactive",10,85
+"TCGA.24.0966.01",78,3,"YES",3,">20 mm",1,"",232,0,"Stable Disease",-0.323965359905143,-0.478572188921903,5,232,0,"Differentiated",5,95
+"TCGA.24.0970.01",63,3,"YES",3,">20 mm",1,"",354,1,"Partial Remission/Response",0.479524525118786,0.38936924031493,5,280,1,"Mesenchymal",0,NA
+"TCGA.24.1413.01",51,3,"YES",3,"1-10 mm",0,"",192,0,"Complete Remission/Response",NA,-0.0560810911068238,5,192,0,"Differentiated",0,50
+"TCGA.24.1418.01",68,3,"",3,">20 mm",1,"",243,0,"Complete Remission/Response",0.719379719279765,0.400573190109247,5,243,0,"Mesenchymal",0,75
+"TCGA.24.1423.01",61,3,"YES",3,"1-10 mm",0,"",190,0,"Complete Remission/Response",0.183823856692084,0.0615845305555168,5,190,0,"Differentiated",0,85
+"TCGA.24.1425.01",45,3,"",3,"1-10 mm",0,"",181,0,"Complete Remission/Response",0.586123101226009,0.461283943337874,5,181,0,"Mesenchymal",25,65
+"TCGA.24.1427.01",58,3,"YES",3,">20 mm",1,"",147,0,"Partial Remission/Response",0.867336448668613,0.429201397584247,5,146,0,"Mesenchymal",20,79
+"TCGA.24.1616.01",56,3,"",3,"1-10 mm",0,"",1163,1,"Complete Remission/Response",0.07372838986775,0.0907610512942502,7.870967865,405,1,"Differentiated",35,60
+"TCGA.24.2254.01",66,3,"YES",3,"1-10 mm",0,"",1736,1,"Complete Remission/Response",-0.158956804905102,-0.0264951544635641,5,606,1,"Mesenchymal",10,90
+"TCGA.25.1316.01",55,3,"",3,"1-10 mm",0,"",1279,1,"Progressive Disease",-0.0908017630795453,0.0353461625516374,5,276,1,"Proliferative",2,98
+"TCGA.25.1634.01",75,3,"",3,"No Macroscopic disease",0,"",1091,1,"Complete Remission/Response",1.36911001619284,0.389963401156182,6.999999523,380,1,"Proliferative",NA,NA
+"TCGA.25.2393.01",81,3,"",3,"11-20 mm",1,"",1157,1,"Partial Remission/Response",-0.229598040628703,-0.0888002394091213,4.065420628,305,1,"Proliferative",14,80
+"TCGA.30.1891.01",61,3,"NO",2,"1-10 mm",0,"NO",914,1,"Partial Remission/Response",0.752740268882924,0.29128291324309,5,181,1,"Mesenchymal",20,70
+"TCGA.61.1730.01",78,1,"NO",3,"1-10 mm",0,"NO",132,1,"",-0.337568855596963,-0.291264511235705,5,NA,NA,NA,0,85
+"TCGA.61.1906.01",55,3,"YES",3,"11-20 mm",1,"YES",1038,1,"Complete Remission/Response",-0.277762357763114,-0.435047464058124,4.950495243,236,1,"Differentiated",5,95
+"TCGA.61.2002.01",46,3,"YES",3,"11-20 mm",1,"YES",547,0,"Progressive Disease",0.44037470296472,0.197302288905723,5,547,0,"Immunoreactive",5,80
+"TCGA.61.2012.01",81,2,"YES",2,"",NA,"YES",932,0,"",-0.223528131293557,-0.390925482510654,4.941860676,932,0,"Immunoreactive",10,80
+"TCGA.61.2016.01",51,3,"YES",3,"No Macroscopic disease",0,"YES",36,1,"Progressive Disease",0.933285551347666,0.0121274171026893,3.538461685,NA,NA,"Differentiated",10,90
+"TCGA.61.2018.01",62,1,"NO",3,"No Macroscopic disease",0,"NO",1381,0,"Complete Remission/Response",-0.337350956672013,-0.579953900547402,4.917881012,1381,0,NA,5,95
+"TCGA.OY.A56P.01",48,3,"NO",3,"1-10 mm",0,"NO",1207,0,"Complete Remission/Response",-0.345663231446965,NA,3.75,NA,NA,NA,NA,NA
+"TCGA.OY.A56Q.01",78,2,"NO",3,"No Macroscopic disease",0,"NO",576,0,"Complete Remission/Response",-0.244104547896061,NA,3,NA,NA,NA,NA,NA
+"TCGA.01.0628.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.0844253275690246,NA,NA,NA,NA,NA,NA
+"TCGA.01.0629.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.01.0630.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.0147838363719146,NA,NA,NA,NA,NA,NA
+"TCGA.01.0631.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.383829524755354,NA,NA,NA,NA,NA,NA
+"TCGA.01.0633.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,0.17787644559663,NA,NA,NA,NA,NA,NA
+"TCGA.01.0636.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.160506733447676,NA,NA,NA,NA,NA,NA
+"TCGA.01.0637.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.0819869907417609,NA,NA,NA,NA,NA,NA
+"TCGA.01.0638.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.01.0639.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.290720869900827,NA,NA,NA,NA,NA,NA
+"TCGA.01.0642.11",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.10876413833229,NA,NA,NA,NA,NA,NA
+"TCGA.04.1331.01",78,3,"YES",3,"1-10 mm",0,"NO",1336,1,"Complete Remission/Response",NA,-0.0210239824278184,NA,459,1,"Proliferative",20,78
+"TCGA.04.1332.01",70,3,"NO",3,"1-10 mm",0,"",1247,1,"",NA,0.147318086514084,NA,395,1,"Mesenchymal",89,8
+"TCGA.04.1335.01",60,1,"NO",2,"",NA,"NO",55,1,"",NA,-0.131620921896992,NA,NA,NA,NA,15,70
+"TCGA.04.1336.01",55,3,"NO",3,"No Macroscopic disease",0,"",1495,0,"Complete Remission/Response",NA,-0.192180699477769,NA,1495,0,"Differentiated",4,92
+"TCGA.04.1337.01",78,3,"NO",2,"No Macroscopic disease",0,"",61,1,"",NA,0.180693442332499,NA,NA,NA,"Mesenchymal",21,79
+"TCGA.04.1338.01",78,3,"",3,"1-10 mm",0,"",1418,0,"",NA,0.319329253081929,NA,380,1,"Mesenchymal",30,55
+"TCGA.04.1341.01",85,NA,"",3,"",NA,"",33,0,"Complete Remission/Response",NA,0.178823242618728,NA,NA,NA,"Proliferative",22,75
+"TCGA.04.1342.01",80,4,"",2,">20 mm",1,"",563,1,"Progressive Disease",NA,-0.0168823152354046,NA,NA,NA,"Differentiated",11,85
+"TCGA.04.1343.01",72,4,"",3,">20 mm",1,"",361,1,"Progressive Disease",NA,0.238139678274034,NA,NA,NA,"Mesenchymal",4,95
+"TCGA.04.1346.01",73,3,"YES",2,"",NA,"",1993,0,"Complete Remission/Response",NA,0.140091473402599,NA,1992,0,"Immunoreactive",30,68
+"TCGA.04.1347.01",81,4,"NO",3,"No Macroscopic disease",0,"NO",1919,0,"Complete Remission/Response",NA,0.0153247425509707,NA,1918,0,"Proliferative",5,93
+"TCGA.04.1348.01",44,3,"YES",3,"1-10 mm",0,"",1483,1,"Complete Remission/Response",NA,-0.152089945858937,NA,574,1,"Immunoreactive",1,95
+"TCGA.04.1349.01",69,4,"YES",3,"",NA,"",656,1,"Complete Remission/Response",NA,0.172668084414914,NA,425,1,"Differentiated",10,90
+"TCGA.04.1350.01",46,3,"",3,">20 mm",1,"",1946,1,"Stable Disease",NA,0.130304766275763,NA,111,1,"Proliferative",5,94
+"TCGA.04.1351.01",76,3,"",2,"",NA,"",1991,0,"Complete Remission/Response",NA,-0.00824553006337056,NA,1658,1,NA,30,55
+"TCGA.04.1353.01",64,3,"",NA,"",NA,"",16,0,"",NA,-0.248109295802801,NA,NA,NA,NA,NA,NA
+"TCGA.04.1353.11",64,3,"",NA,"",NA,"",16,0,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.04.1356.01",62,2,"YES",3,"",NA,"YES",1499,1,"Progressive Disease",NA,-0.250255009649548,NA,156,1,"Differentiated",5,85
+"TCGA.04.1357.01",52,3,"",3,"",NA,"",NA,NA,"",NA,-0.0356536961563758,NA,NA,NA,"Immunoreactive",50,50
+"TCGA.04.1360.01",65,1,"",3,"",NA,"",NA,NA,"",NA,-0.101651080748918,NA,NA,NA,NA,20,79
+"TCGA.04.1361.01",57,3,"",3,"No Macroscopic disease",0,"",989,0,"Stable Disease",NA,0.271589816317175,NA,926,1,"Differentiated",30,69
+"TCGA.04.1362.01",59,2,"",3,"1-10 mm",0,"",1348,1,"",NA,0.0984807137484028,NA,223,1,"Differentiated",15,84
+"TCGA.04.1364.01",61,3,"NO",3,"1-10 mm",0,"",1024,1,"Progressive Disease",NA,-0.0896613055869782,NA,288,1,"Proliferative",5,93
+"TCGA.04.1365.01",87,3,"NO",3,"",NA,"",2329,0,"Complete Remission/Response",NA,-0.206218054802572,NA,1328,1,"Immunoreactive",5,94
+"TCGA.04.1367.01",50,3,"NO",3,"No Macroscopic disease",0,"NO",2174,0,"Complete Remission/Response",NA,-0.0774045093132079,NA,2174,0,"Differentiated",10,88
+"TCGA.04.1369.01",53,3,"",2,"1-10 mm",0,"",642,1,"",NA,-0.202443727227836,NA,315,1,NA,10,85
+"TCGA.04.1369.11",53,3,"",2,"1-10 mm",0,"",642,1,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.04.1370.01",52,3,"",3,"1-10 mm",0,"",1824,0,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.04.1371.01",58,3,"",3,"1-10 mm",0,"",2506,0,"",NA,0.0572477170944598,NA,2505,0,NA,15,80
+"TCGA.04.1514.01",45,3,"NO",2,"No Macroscopic disease",0,"",1720,1,"Complete Remission/Response",NA,-0.0246122187928386,NA,1221,1,"Proliferative",10,85
+"TCGA.04.1516.01",48,1,"",3,"No Macroscopic disease",0,"",1265,0,"Complete Remission/Response",NA,0.0348284924621744,NA,1265,0,NA,15,85
+"TCGA.04.1516.11",48,1,"",3,"No Macroscopic disease",0,"",1265,0,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.04.1517.01",79,3,"NO",3,">20 mm",1,"NO",608,1,"Complete Remission/Response",NA,0.0747497522540825,NA,349,1,"Differentiated",5,85
+"TCGA.04.1519.01",48,3,"",3,"",NA,"",24,0,"",NA,0.11809918215928,NA,NA,NA,"Proliferative",10,90
+"TCGA.04.1525.01",47,3,"NO",3,"1-10 mm",0,"NO",1167,1,"Complete Remission/Response",NA,-0.321138525084675,NA,212,1,"Proliferative",25,75
+"TCGA.04.1530.01",68,3,"NO",3,"1-10 mm",0,"NO",3622,1,"Complete Remission/Response",NA,0.221720929302026,NA,350,1,"Mesenchymal",0,75
+"TCGA.04.1536.01",60,4,"",3,"1-10 mm",0,"",885,1,"",NA,0.158788800506056,NA,498,1,"Differentiated",NA,NA
+"TCGA.04.1542.01",52,3,"NO",2,"1-10 mm",0,"",2561,1,"Complete Remission/Response",NA,0.151002187082533,NA,1035,1,"Proliferative",20,79
+"TCGA.04.1638.01",57,4,"",3,"No Macroscopic disease",0,"",1686,1,"",NA,0.0473457330698392,NA,298,1,"Differentiated",2,95
+"TCGA.04.1644.01",48,3,"",3,">20 mm",1,"",1487,1,"Partial Remission/Response",NA,-0.136503216751345,NA,634,1,NA,NA,NA
+"TCGA.04.1644.11",48,3,"",3,">20 mm",1,"",1487,1,"Partial Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.04.1646.01",60,3,"",3,"1-10 mm",0,"",848,1,"",NA,0.0527880846090759,NA,508,1,"Proliferative",0,100
+"TCGA.04.1648.01",57,3,"",2,"1-10 mm",0,"",871,1,"",NA,-0.195088257078463,NA,412,1,"Differentiated",0,85
+"TCGA.04.1649.01",74,3,"",3,"1-10 mm",0,"",1966,0,"",NA,0.0480488006326934,NA,1672,1,"Differentiated",15,85
+"TCGA.04.1651.01",53,3,"",3,"1-10 mm",0,"",1102,1,"",NA,-0.0374436303796427,NA,990,1,"Differentiated",8,90
+"TCGA.04.1652.01",76,3,"NO",2,"",NA,"NO",969,1,"Complete Remission/Response",NA,0.0117430671038315,NA,880,1,"Differentiated",35,65
+"TCGA.04.1654.01",69,3,"",2,"1-10 mm",0,"",1451,1,"",NA,-0.417343783134687,NA,808,1,"Differentiated",5,90
+"TCGA.04.1655.01",49,3,"",2,"No Macroscopic disease",0,"",1380,1,"",NA,0.189091251608983,NA,819,1,"Proliferative",2,95
+"TCGA.09.0364.01",80,2,"NO",3,"11-20 mm",1,"NO",887,1,"Complete Remission/Response",NA,-0.0571191654489384,NA,395,1,"Proliferative",10,90
+"TCGA.09.0365.01",70,3,"NO",3,"No Macroscopic disease",0,"NO",288,1,"Complete Remission/Response",NA,-0.0615863176402464,NA,251,1,NA,5,95
+"TCGA.09.0366.01",55,3,"NO",3,"1-10 mm",0,"NO",1757,1,"Stable Disease",NA,-0.263579387245743,NA,189,1,"Immunoreactive",0,100
+"TCGA.09.1659.01",51,3,"YES",3,">20 mm",1,"NO",304,1,"Stable Disease",NA,0.0531989413932856,NA,NA,NA,"Differentiated",0,85
+"TCGA.09.1661.01",75,3,"NO",3,"1-10 mm",0,"NO",1169,1,"Stable Disease",NA,0.199450876404558,NA,NA,NA,"Proliferative",0,75
+"TCGA.09.1662.01",58,4,"YES",3,"1-10 mm",0,"YES",2717,1,"Complete Remission/Response",NA,0.167788778424913,NA,1046,1,"Differentiated",0,87
+"TCGA.09.1664.01",37,3,"NO",1,"1-10 mm",0,"NO",2279,1,"Complete Remission/Response",NA,-0.112464002010347,NA,NA,NA,NA,8,85
+"TCGA.09.1665.01",73,3,"YES",2,"No Macroscopic disease",0,"YES",1266,1,"Complete Remission/Response",NA,0.116270659952272,NA,468,1,"Differentiated",0,85
+"TCGA.09.1666.01",57,3,"NO",3,"No Macroscopic disease",0,"NO",1752,0,"Complete Remission/Response",NA,0.123135866135263,NA,480,1,"Differentiated",5,93
+"TCGA.09.1668.01",57,3,"NO",3,"",NA,"NO",1684,0,"Complete Remission/Response",NA,0.197004620805861,NA,1684,0,"Immunoreactive",10,85
+"TCGA.09.1670.01",57,3,"NO",3,"No Macroscopic disease",0,"NO",547,0,"Complete Remission/Response",NA,-0.0708853638514439,NA,547,1,"Differentiated",5,95
+"TCGA.09.1675.01",50,1,"NO",2,"No Macroscopic disease",0,"NO",2967,0,"Complete Remission/Response",-0.805918633349668,-0.29255531927241,NA,2967,0,NA,30,70
+"TCGA.09.2048.01",63,3,"YES",3,"1-10 mm",0,"YES",138,1,"Stable Disease",NA,-0.146100066936448,NA,NA,NA,"Proliferative",5,90
+"TCGA.09.2049.01",64,3,"NO",3,">20 mm",1,"NO",3419,0,"Complete Remission/Response",NA,-0.118963050973431,NA,952,1,"Proliferative",5,95
+"TCGA.09.2056.01",62,3,"NO",3,"No Macroscopic disease",0,"NO",379,0,"Complete Remission/Response",NA,0.0345499925789968,NA,379,0,"Differentiated",20,80
+"TCGA.10.0925.01",58,3,"",1,"1-10 mm",0,"",1652,1,"Partial Remission/Response",NA,-0.434436261776391,NA,558,1,NA,30,70
+"TCGA.10.0926.01",63,3,"NO",3,"11-20 mm",1,"NO",788,1,"Complete Remission/Response",NA,0.108459371006253,NA,287,1,"Proliferative",0,95
+"TCGA.10.0927.01",65,3,"",2,"1-10 mm",0,"",2490,1,"Complete Remission/Response",NA,0.152722784800505,NA,1001,1,"Proliferative",5,90
+"TCGA.10.0928.01",71,3,"NO",3,"1-10 mm",0,"NO",563,1,"",NA,-0.0633498137172366,NA,NA,NA,"Proliferative",5,90
+"TCGA.10.0930.01",70,3,"",3,"1-10 mm",0,"",1040,1,"Complete Remission/Response",NA,0.303379026434291,NA,680,1,"Mesenchymal",5,95
+"TCGA.10.0931.01",44,3,"",3,"1-10 mm",0,"NO",1000,1,"Complete Remission/Response",NA,-0.192033966220984,NA,300,1,"Differentiated",10,85
+"TCGA.10.0933.01",77,3,"",3,"No Macroscopic disease",0,"",446,1,"Complete Remission/Response",NA,0.00848349511599593,NA,356,1,"Proliferative",5,90
+"TCGA.10.0934.01",50,3,"NO",3,"1-10 mm",0,"",204,1,"Progressive Disease",NA,-0.168145568105022,NA,110,1,"Differentiated",NA,NA
+"TCGA.10.0935.01",68,3,"YES",3,"1-10 mm",0,"YES",1078,1,"",NA,-0.0156225910394637,NA,NA,NA,"Proliferative",NA,NA
+"TCGA.10.0936.01",69,3,"YES",3,">20 mm",1,"",1123,1,"Partial Remission/Response",NA,-0.352058988041033,NA,NA,NA,"Differentiated",5,90
+"TCGA.10.0937.01",44,3,"",3,"1-10 mm",0,"",608,1,"Complete Remission/Response",NA,-0.0607767687055579,NA,235,1,"Differentiated",20,75
+"TCGA.10.0938.01",80,3,"",3,">20 mm",1,"",636,1,"Progressive Disease",NA,-0.278556280786807,NA,362,1,"Proliferative",20,70
+"TCGA.13.0714.01",55,4,"",3,"1-10 mm",0,"",189,1,"Progressive Disease",NA,0.0708481534881514,NA,110,1,"Mesenchymal",NA,80
+"TCGA.13.0717.01",54,3,"",3,">20 mm",1,"",748,1,"Complete Remission/Response",NA,0.0848476716051029,NA,294,1,"Proliferative",NA,NA
+"TCGA.13.0723.01",63,3,"",3,">20 mm",1,"",1204,1,"Progressive Disease",NA,-0.0638389268551305,NA,210,1,"Immunoreactive",NA,75
+"TCGA.13.0724.01",72,4,"",3,"1-10 mm",0,"",83,1,"Progressive Disease",NA,0.159371827806377,NA,83,1,"Differentiated",NA,NA
+"TCGA.13.0725.01",44,3,"",3,"1-10 mm",0,"",377,1,"Complete Remission/Response",NA,0.0928050398980348,NA,190,1,"Proliferative",10,90
+"TCGA.13.0726.01",55,3,"",NA,"1-10 mm",0,"",949,1,"Complete Remission/Response",NA,0.0653975612307603,NA,392,1,"Differentiated",30,70
+"TCGA.13.0727.01",71,3,"",3,"1-10 mm",0,"",462,1,"Complete Remission/Response",NA,-0.0567626709520955,NA,253,1,"Proliferative",10,80
+"TCGA.13.0730.01",71,3,"",3,">20 mm",1,"",542,1,"",NA,-0.0225697300171078,NA,NA,NA,"Proliferative",15,80
+"TCGA.13.0751.01",44,3,"",NA,"1-10 mm",0,"",1678,1,"Complete Remission/Response",NA,-0.406182764402651,NA,653,1,"Differentiated",5,95
+"TCGA.13.0755.01",75,4,"",3,"1-10 mm",0,"",76,1,"Progressive Disease",NA,-0.296126395958295,NA,34,1,"Immunoreactive",NA,89
+"TCGA.13.0757.01",71,3,"",3,"1-10 mm",0,"",340,1,"Complete Remission/Response",NA,0.105669837059924,NA,293,1,"Proliferative",1,75
+"TCGA.13.0758.01",60,4,"",3,"1-10 mm",0,"",346,1,"Partial Remission/Response",NA,-0.218933860668045,NA,211,1,NA,1,84
+"TCGA.13.0760.01",63,4,"",3,"No Macroscopic disease",0,"",351,1,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.13.0761.01",51,4,"",3,"No Macroscopic disease",0,"",1036,0,"Complete Remission/Response",NA,-0.0693549977055246,NA,423,1,"Differentiated",10,90
+"TCGA.13.0764.01",62,4,"",3,"1-10 mm",0,"",944,0,"Partial Remission/Response",NA,-0.260131616705332,NA,272,1,"Immunoreactive",NA,79
+"TCGA.13.0765.01",50,3,"",3,"1-10 mm",0,"",869,0,"Complete Remission/Response",NA,-0.0749964184072869,NA,668,1,"Differentiated",5,95
+"TCGA.13.0766.01",42,3,"",3,"1-10 mm",0,"",651,0,"Complete Remission/Response",NA,-0.00434328208413406,NA,628,1,"Proliferative",NA,75
+"TCGA.13.0791.01",58,3,"",3,"No Macroscopic disease",0,"",1184,0,"Complete Remission/Response",NA,-0.062229001349744,NA,281,1,"Differentiated",15,85
+"TCGA.13.0791.02",58,3,"",3,"No Macroscopic disease",0,"",1184,0,"Complete Remission/Response",NA,-0.0188283485843635,NA,NA,NA,NA,8,90
+"TCGA.13.0792.01",40,3,"",3,"No Macroscopic disease",0,"",1117,0,"Complete Remission/Response",NA,-0.282742809308093,NA,816,1,"Immunoreactive",15,85
+"TCGA.13.0800.01",52,3,"",3,"No Macroscopic disease",0,"",247,0,"Complete Remission/Response",NA,-0.21925949098886,NA,247,0,"Proliferative",15,85
+"TCGA.13.0801.01",46,3,"",3,"No Macroscopic disease",0,"",252,0,"Complete Remission/Response",NA,-0.145407131521054,NA,252,0,"Immunoreactive",5,95
+"TCGA.13.0803.01",81,3,"",3,"No Macroscopic disease",0,"",1334,1,"Complete Remission/Response",NA,-0.120727122186789,NA,336,1,"Differentiated",25,75
+"TCGA.13.0804.01",73,3,"",3,"1-10 mm",0,"",1073,1,"Complete Remission/Response",NA,-0.173551788993568,NA,329,1,"Differentiated",5,95
+"TCGA.13.0805.01",57,3,"",3,"1-10 mm",0,"",1074,1,"Progressive Disease",NA,-0.00727943591497594,NA,176,1,"Immunoreactive",NA,NA
+"TCGA.13.0884.01",39,3,"",3,"1-10 mm",0,"",3260,1,"Complete Remission/Response",NA,0.22047047318826,NA,1251,1,"Differentiated",10,89
+"TCGA.13.0885.01",70,3,"",3,"11-20 mm",1,"",2780,0,"Complete Remission/Response",NA,-0.172365276681711,NA,2780,0,"Immunoreactive",1,78
+"TCGA.13.0886.01",67,3,"",3,"1-10 mm",0,"",2259,0,"Complete Remission/Response",NA,0.387671330480467,NA,2259,0,"Mesenchymal",0,65
+"TCGA.13.0887.01",42,3,"",3,"1-10 mm",0,"",2028,1,"Complete Remission/Response",NA,-0.174757410176218,NA,513,1,"Differentiated",0,89
+"TCGA.13.0888.01",78,3,"",3,"No Macroscopic disease",0,"",2141,0,"Partial Remission/Response",NA,0.267826934818911,NA,2141,0,"Proliferative",0,65
+"TCGA.13.0889.01",75,4,"",NA,"1-10 mm",0,"",1881,0,"Complete Remission/Response",NA,-0.0587277054552332,NA,1880,0,"Immunoreactive",0,75
+"TCGA.13.0890.01",56,3,"",3,"1-10 mm",0,"",2068,0,"Complete Remission/Response",NA,-0.000435106698098091,NA,2068,0,"Mesenchymal",0,75
+"TCGA.13.0891.01",73,4,"",3,"No Macroscopic disease",0,"",2099,0,"Complete Remission/Response",NA,-0.0403640734995561,NA,761,1,"Differentiated",0,89
+"TCGA.13.0893.01",48,3,"",3,"11-20 mm",1,"",1319,1,"Partial Remission/Response",NA,-0.0554374651900481,NA,461,1,"Immunoreactive",10,89
+"TCGA.13.0894.01",53,3,"",3,"1-10 mm",0,"",1509,1,"Complete Remission/Response",NA,0.485175434163578,NA,565,1,"Mesenchymal",20,80
+"TCGA.13.0897.01",54,3,"",3,"1-10 mm",0,"",1748,0,"Complete Remission/Response",NA,0.0276378981769535,NA,553,1,"Immunoreactive",0,89
+"TCGA.13.0899.01",60,3,"",3,"1-10 mm",0,"",1708,0,"Complete Remission/Response",NA,0.0321520232826646,NA,547,1,"Proliferative",1,79
+"TCGA.13.0900.01",59,3,"",3,"",NA,"",1736,0,"Complete Remission/Response",NA,0.17199868304741,NA,1736,0,"Mesenchymal",15,84
+"TCGA.13.0901.01",41,3,"",3,">20 mm",1,"",589,0,"Complete Remission/Response",NA,0.10143154736749,NA,390,1,"Proliferative",NA,NA
+"TCGA.13.0903.01",42,4,"",3,"No Macroscopic disease",0,"",1441,0,"Complete Remission/Response",NA,0.0823208408176274,NA,1441,0,"Differentiated",0,75
+"TCGA.13.0905.01",51,3,"",3,"",NA,"",1455,0,"Complete Remission/Response",NA,-0.00626874278237075,NA,1455,0,"Differentiated",5,94
+"TCGA.13.0906.01",50,3,"",3,"1-10 mm",0,"",1367,0,"Complete Remission/Response",NA,0.153521980336011,NA,1367,0,"Proliferative",0,50
+"TCGA.13.0908.01",58,4,"",3,"1-10 mm",0,"",1364,0,"Complete Remission/Response",NA,0.485721115261179,NA,552,1,"Mesenchymal",10,90
+"TCGA.13.0910.01",58,3,"",3,"1-10 mm",0,"",1128,0,"Complete Remission/Response",NA,-0.00607254801874275,NA,1128,0,"Proliferative",10,90
+"TCGA.13.0911.01",55,4,"",3,"1-10 mm",0,"",843,0,"Partial Remission/Response",NA,0.184182250852768,NA,278,1,"Mesenchymal",20,75
+"TCGA.13.0912.01",58,3,"",3,"No Macroscopic disease",0,"",1036,0,"Complete Remission/Response",NA,-0.0212739916803527,NA,468,1,"Differentiated",8,90
+"TCGA.13.0913.01",53,3,"",3,"No Macroscopic disease",0,"",912,0,"Complete Remission/Response",NA,-0.233709462161856,NA,871,1,"Proliferative",4,95
+"TCGA.13.0913.02",53,3,"",3,"No Macroscopic disease",0,"",912,0,"Complete Remission/Response",NA,-0.372816611213938,NA,NA,NA,NA,20,70
+"TCGA.13.0919.01",52,3,"",3,"No Macroscopic disease",0,"",453,0,"Complete Remission/Response",NA,0.236508779586159,NA,453,0,"Mesenchymal",NA,NA
+"TCGA.13.0923.01",74,3,"",3,"No Macroscopic disease",0,"",195,0,"Complete Remission/Response",NA,-0.239715788440192,NA,195,0,"Differentiated",10,85
+"TCGA.13.1403.01",48,3,"",3,"",NA,"",331,0,"Complete Remission/Response",NA,0.0456292414964023,NA,331,0,"Differentiated",10,85
+"TCGA.13.1404.01",48,3,"",3,"1-10 mm",0,"",201,0,"Complete Remission/Response",NA,-0.0222095431621253,NA,201,0,"Proliferative",20,75
+"TCGA.13.1407.01",51,3,"",3,"",NA,"",184,0,"Complete Remission/Response",NA,-0.107191715462152,NA,184,0,"Proliferative",5,95
+"TCGA.13.1409.01",73,3,"",3,"1-10 mm",0,"",208,0,"",NA,0.33474297723189,NA,208,0,"Proliferative",20,75
+"TCGA.13.1411.01",81,3,"",3,">20 mm",1,"",128,0,"Partial Remission/Response",NA,0.299237746892831,NA,128,0,"Mesenchymal",10,89
+"TCGA.13.1477.01",49,4,"",2,"1-10 mm",0,"",1662,1,"Progressive Disease",NA,0.266446267958057,NA,234,1,"Proliferative",15,80
+"TCGA.13.1479.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.13.1481.01",76,3,"",2,"1-10 mm",0,"",2648,1,"Complete Remission/Response",NA,0.0626607142406973,NA,NA,NA,"Mesenchymal",17,80
+"TCGA.13.1482.01",52,4,"",2,">20 mm",1,"",1877,1,"Partial Remission/Response",NA,-0.324770031908829,NA,602,1,"Differentiated",15,85
+"TCGA.13.1483.01",61,3,"",3,">20 mm",1,"",895,1,"Partial Remission/Response",NA,0.0325308360335518,NA,296,1,"Mesenchymal",40,50
+"TCGA.13.1484.01",62,3,"",3,"",NA,"",2982,0,"Complete Remission/Response",NA,0.209443979165148,NA,496,1,"Immunoreactive",3,95
+"TCGA.13.1485.01",48,4,"",2,"1-10 mm",0,"",629,1,"Partial Remission/Response",NA,0.394823174512146,NA,170,1,"Mesenchymal",30,70
+"TCGA.13.1487.01",74,4,"",NA,"",NA,"",681,1,"Complete Remission/Response",NA,0.165519100140718,NA,412,1,"Mesenchymal",15,80
+"TCGA.13.1489.01",70,3,"",2,"",NA,"",2521,0,"Complete Remission/Response",NA,-0.134633249310332,NA,806,1,"Proliferative",NA,NA
+"TCGA.13.1489.02",70,3,"",2,"",NA,"",2521,0,"Complete Remission/Response",NA,-0.241879856698422,NA,NA,NA,NA,5,90
+"TCGA.13.1491.01",55,3,"",3,"",NA,"",1595,1,"Partial Remission/Response",NA,0.166752855500879,NA,508,1,"Proliferative",5,95
+"TCGA.13.1492.01",66,3,"",3,"",NA,"",2237,0,"Complete Remission/Response",NA,-0.150105493404136,NA,2237,0,"Proliferative",1,94
+"TCGA.13.1494.01",43,4,"",3,"",NA,"",1162,0,"Complete Remission/Response",NA,0.104235592745197,NA,693,1,"Mesenchymal",10,90
+"TCGA.13.1496.01",65,3,"",3,">20 mm",1,"",129,1,"",NA,-0.127610225331722,NA,NA,NA,"Immunoreactive",1,94
+"TCGA.13.1497.01",47,3,"",3,"",NA,"",1652,0,"Complete Remission/Response",NA,-0.311730625341111,NA,813,1,"Proliferative",5,80
+"TCGA.13.1498.01",73,3,"",3,">20 mm",1,"",1144,0,"Partial Remission/Response",NA,-0.169924690843581,NA,533,1,"Immunoreactive",10,80
+"TCGA.13.1500.01",71,3,"",3,"11-20 mm",1,"",425,1,"Partial Remission/Response",NA,0.0299124410657357,NA,253,1,"Differentiated",10,89
+"TCGA.13.1501.01",50,4,"",3,">20 mm",1,"",999,0,"Partial Remission/Response",NA,0.18146028024614,NA,392,1,"Mesenchymal",30,70
+"TCGA.13.1504.01",68,3,"",3,"",NA,"",504,0,"Complete Remission/Response",NA,0.0932493216618575,NA,504,0,"Mesenchymal",5,94
+"TCGA.13.1510.01",62,3,"",3,"No Macroscopic disease",0,"",78,0,"",NA,0.0819874579668095,NA,78,0,"Differentiated",5,75
+"TCGA.13.1512.01",49,3,"",3,"No Macroscopic disease",0,"",94,0,"",NA,-0.0453847183885593,NA,94,0,"Mesenchymal",1,94
+"TCGA.13.1817.01",56,3,"",3,">20 mm",1,"",1024,1,"Partial Remission/Response",NA,-0.0543544347577318,NA,540,1,NA,10,90
+"TCGA.13.1817.02",56,3,"",3,">20 mm",1,"",1024,1,"Partial Remission/Response",NA,0.101902547434059,NA,NA,NA,NA,10,80
+"TCGA.13.1819.01",59,2,"",3,"No Macroscopic disease",0,"",1946,0,"Complete Remission/Response",NA,-0.190800616306949,NA,429,1,NA,30,70
+"TCGA.13.1819.02",59,2,"",3,"No Macroscopic disease",0,"",1946,0,"Complete Remission/Response",NA,-0.158637576540887,NA,NA,NA,NA,30,70
+"TCGA.13.2057.01",59,3,"",3,"No Macroscopic disease",0,"",433,0,"Complete Remission/Response",NA,0.207373221760225,NA,433,0,NA,50,50
+"TCGA.13.2061.01",58,3,"",3,"No Macroscopic disease",0,"",328,0,"Complete Remission/Response",NA,-0.223141469265559,NA,328,0,NA,10,85
+"TCGA.13.2065.01",71,3,"",3,"1-10 mm",0,"",266,0,"Complete Remission/Response",NA,0.226880218392569,NA,266,0,NA,40,60
+"TCGA.13.2066.01",49,4,"",3,"1-10 mm",0,"",295,0,"Complete Remission/Response",NA,0.188355001477969,NA,295,0,NA,NA,NA
+"TCGA.13.2071.01",63,4,"",3,"1-10 mm",0,"",191,0,"Complete Remission/Response",NA,0.00124503297135334,NA,191,0,NA,10,90
+"TCGA.13.A5FT.01",67,3,"",3,"No Macroscopic disease",0,"",1666,0,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.13.A5FU.01",60,4,"",3,"1-10 mm",0,"",256,1,"Partial Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.20.0987.01",61,3,"",3,"1-10 mm",0,"",701,1,"",NA,0.130521311645991,NA,442,1,"Immunoreactive",NA,NA
+"TCGA.20.0990.01",74,3,"",3,"",NA,"",789,0,"",NA,-0.0182241105916082,NA,NA,NA,"Proliferative",1,91
+"TCGA.20.0991.01",78,2,"",3,"No Macroscopic disease",0,"",797,0,"Complete Remission/Response",NA,0.0846817718236086,NA,797,0,"Immunoreactive",0,96
+"TCGA.20.0996.01",59,3,"",2,"1-10 mm",0,"",2196,0,"",NA,0.142020856078292,NA,2196,0,NA,NA,NA
+"TCGA.20.1682.01",56,3,"YES",NA,"11-20 mm",1,"YES",837,0,"Complete Remission/Response",NA,-0.0392108400651923,NA,836,0,"Mesenchymal",38,60
+"TCGA.20.1683.01",65,3,"",3,"No Macroscopic disease",0,"",772,0,"Stable Disease",NA,0.00238694212355474,NA,618,1,"Proliferative",20,72
+"TCGA.20.1684.01",51,3,"NO",3,"1-10 mm",0,"NO",581,0,"Complete Remission/Response",NA,-0.283359314175027,NA,580,0,"Proliferative",20,77
+"TCGA.20.1685.01",45,3,"NO",3,"1-10 mm",0,"NO",508,0,"Complete Remission/Response",NA,-0.255166496564086,NA,507,0,"Immunoreactive",19,80
+"TCGA.20.1686.01",75,3,"NO",3,"No Macroscopic disease",0,"",89,0,"Complete Remission/Response",NA,-0.184566998878503,NA,89,0,"Differentiated",35,65
+"TCGA.20.1687.01",46,4,"YES",3,"No Macroscopic disease",0,"",81,0,"Complete Remission/Response",NA,0.22389602839792,NA,81,0,"Differentiated",35,65
+"TCGA.23.1021.01",45,4,"YES",3,">20 mm",1,"YES",1446,1,"Partial Remission/Response",NA,0.0963055617485338,NA,NA,NA,"Differentiated",NA,NA
+"TCGA.23.1022.01",67,3,"YES",3,"1-10 mm",0,"YES",1511,1,"Complete Remission/Response",NA,0.314501348268159,NA,450,1,"Proliferative",5,90
+"TCGA.23.1023.01",65,3,"YES",3,"1-10 mm",0,"YES",1233,0,"Complete Remission/Response",NA,0.0642541557985428,NA,490,1,"Differentiated",5,70
+"TCGA.23.1024.01",52,4,"",3,"1-10 mm",0,"",468,0,"Complete Remission/Response",NA,-0.116105882508993,NA,468,0,"Proliferative",5,90
+"TCGA.23.1026.01",45,3,"",3,"1-10 mm",0,"",816,0,"Complete Remission/Response",NA,0.0571899998402979,NA,797,1,"Differentiated",NA,NA
+"TCGA.23.1027.01",48,3,"YES",3,"1-10 mm",0,"YES",976,1,"Progressive Disease",NA,0.131302706370667,NA,114,1,"Differentiated",NA,NA
+"TCGA.23.1028.01",43,3,"YES",3,"1-10 mm",0,"YES",1503,0,"Complete Remission/Response",NA,-0.0431115589747259,NA,133,1,"Differentiated",10,75
+"TCGA.23.1029.01",46,3,"",3,"1-10 mm",0,"",268,0,"Complete Remission/Response",NA,0.0254637748178991,NA,268,0,"Differentiated",20,80
+"TCGA.23.1030.01",64,3,"YES",3,"1-10 mm",0,"YES",886,0,"Complete Remission/Response",NA,0.110944030977525,NA,543,1,"Differentiated",0,95
+"TCGA.23.1031.01",60,4,"",3,"1-10 mm",0,"",575,1,"Partial Remission/Response",NA,0.22300783932296,NA,NA,NA,"Proliferative",5,85
+"TCGA.23.1032.01",73,4,"",3,"1-10 mm",0,"",84,1,"",NA,-0.226962696725198,NA,NA,NA,"Proliferative",5,75
+"TCGA.23.1107.01",59,4,"",3,">20 mm",1,"",9,1,"",NA,-0.0723653596915588,NA,NA,NA,"Proliferative",0,0
+"TCGA.23.1109.01",62,3,"",3,"1-10 mm",0,"",1562,1,"Partial Remission/Response",NA,0.103386861562702,NA,987,1,"Proliferative",NA,NA
+"TCGA.23.1110.01",42,3,"YES",3,"No Macroscopic disease",0,"YES",1658,0,"Complete Remission/Response",NA,-0.211773617748253,NA,326,1,"Proliferative",NA,NA
+"TCGA.23.1111.01",63,3,"YES",3,">20 mm",1,"",98,0,"",NA,0.132862862878302,NA,98,0,"Differentiated",NA,NA
+"TCGA.23.1113.01",48,4,"YES",3,"1-10 mm",0,"",949,1,"Partial Remission/Response",NA,0.165938203951827,NA,NA,NA,"Proliferative",NA,NA
+"TCGA.23.1114.01",55,3,"",3,"No Macroscopic disease",0,"",2089,1,"Complete Remission/Response",NA,0.0337243055713312,NA,634,1,"Proliferative",20,80
+"TCGA.23.1116.01",83,3,"YES",3,">20 mm",1,"YES",139,0,"",NA,0.227812928077803,NA,139,0,"Mesenchymal",NA,NA
+"TCGA.23.1117.01",42,3,"YES",3,"1-10 mm",0,"YES",1013,1,"Complete Remission/Response",NA,0.226886888800389,NA,418,1,"Mesenchymal",NA,NA
+"TCGA.23.1118.01",45,3,"YES",3,">20 mm",1,"YES",2616,0,"Complete Remission/Response",NA,-0.0745080606719728,NA,2616,0,"Differentiated",NA,NA
+"TCGA.23.1119.01",64,3,"YES",3,"1-10 mm",0,"YES",3953,0,"Complete Remission/Response",NA,-0.122317987327015,NA,3378,1,"Proliferative",0,0
+"TCGA.23.1120.01",60,3,"NO",3,"1-10 mm",0,"NO",130,0,"",NA,0.0531077232694794,NA,130,0,"Immunoreactive",0,0
+"TCGA.23.1121.01",51,3,"YES",3,">20 mm",1,"",194,0,"",NA,-0.0572572290070192,NA,194,0,"Proliferative",0,0
+"TCGA.23.1122.01",53,3,"NO",3,"1-10 mm",0,"",1189,1,"Complete Remission/Response",NA,0.00349072214817337,NA,447,1,"Proliferative",NA,NA
+"TCGA.23.1123.01",59,3,"YES",3,"11-20 mm",1,"",1018,1,"Progressive Disease",NA,-0.150051231222998,NA,NA,NA,"Immunoreactive",0,0
+"TCGA.23.1124.01",62,3,"YES",3,"No Macroscopic disease",0,"YES",1768,1,"Complete Remission/Response",NA,0.139996980771906,NA,641,1,"Differentiated",0,0
+"TCGA.23.1809.01",63,2,"NO",3,"1-10 mm",0,"NO",16,0,"",NA,-0.422087773701873,NA,16,0,"Proliferative",20,70
+"TCGA.23.2072.01",58,4,"",3,">20 mm",1,"",759,1,"Complete Remission/Response",NA,0.165346606851264,NA,476,1,"Differentiated",5,94
+"TCGA.23.2077.01",45,3,"NO",3,"No Macroscopic disease",0,"YES",3525,0,"Complete Remission/Response",NA,-0.0892742166064891,NA,1232,1,"Immunoreactive",5,95
+"TCGA.23.2078.01",66,3,"YES",3,"No Macroscopic disease",0,"YES",2661,0,"Complete Remission/Response",NA,0.145953169328122,NA,2661,0,"Mesenchymal",10,89
+"TCGA.23.2079.01",46,3,"YES",3,"No Macroscopic disease",0,"YES",2788,0,"Complete Remission/Response",NA,-0.0945291903583614,NA,283,1,"Immunoreactive",10,89
+"TCGA.23.2081.01",49,4,"YES",3,"1-10 mm",0,"",2342,1,"Progressive Disease",NA,-0.0248218638692437,NA,NA,NA,"Differentiated",10,90
+"TCGA.23.2084.01",45,4,"YES",3,"No Macroscopic disease",0,"YES",1516,1,"Complete Remission/Response",NA,0.10609641740857,NA,619,1,"Immunoreactive",9,90
+"TCGA.23.2641.01",85,3,"YES",3,"1-10 mm",0,"",84,0,"",NA,0.397051918011642,NA,84,0,NA,5,90
+"TCGA.23.2643.01",74,3,"",3,"1-10 mm",0,"",143,0,"Complete Remission/Response",NA,-0.0634427198511678,NA,143,0,NA,30,70
+"TCGA.23.2645.01",54,3,"YES",3,"No Macroscopic disease",0,"",137,0,"",NA,0.00103583432478074,NA,137,0,NA,20,80
+"TCGA.23.2647.01",49,3,"YES",3,"1-10 mm",0,"YES",135,0,"",NA,0.189575914141891,NA,135,0,NA,30,70
+"TCGA.23.2649.01",60,3,"YES",3,"1-10 mm",0,"YES",116,0,"",NA,0.0312988144787931,NA,116,0,NA,10,90
+"TCGA.24.0968.01",59,3,"YES",3,"1-10 mm",0,"",598,1,"Partial Remission/Response",NA,0.0187023850806239,NA,NA,NA,"Immunoreactive",10,90
+"TCGA.24.0975.01",58,3,"",3,"1-10 mm",0,"",663,1,"Partial Remission/Response",NA,0.552170491095271,NA,NA,NA,"Mesenchymal",0,NA
+"TCGA.24.0979.01",53,4,"",3,">20 mm",1,"",1264,1,"Complete Remission/Response",NA,0.0853018394275731,NA,428,1,"Differentiated",25,75
+"TCGA.24.0980.01",53,3,"YES",3,">20 mm",1,"",233,1,"Progressive Disease",NA,0.196444482849672,NA,145,1,"Differentiated",NA,NA
+"TCGA.24.0981.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.24.0982.01",77,3,"",3,"1-10 mm",0,"",679,1,"Complete Remission/Response",NA,0.109429890251594,NA,152,1,"Proliferative",25,75
+"TCGA.24.1103.01",50,3,"",3,"1-10 mm",0,"",1646,1,"Complete Remission/Response",NA,-0.0545006292086467,NA,677,1,"Differentiated",0,0
+"TCGA.24.1104.01",56,4,"",3,">20 mm",1,"",1933,1,"Complete Remission/Response",NA,-0.113832701887369,NA,958,1,"Differentiated",NA,NA
+"TCGA.24.1105.01",36,3,"",3,"1-10 mm",0,"",1442,1,"Complete Remission/Response",NA,0.134386714682353,NA,470,1,"Differentiated",NA,NA
+"TCGA.24.1416.01",34,4,"",3,"1-10 mm",0,"",194,0,"Complete Remission/Response",NA,-0.207552269157657,NA,194,0,"Differentiated",0,55
+"TCGA.24.1417.01",54,4,"",3,"1-10 mm",0,"",238,0,"Complete Remission/Response",NA,0.133003138712321,NA,238,0,"Immunoreactive",0,75
+"TCGA.24.1419.01",62,3,"",3,"11-20 mm",1,"",239,0,"Complete Remission/Response",NA,-0.25493692257302,NA,239,0,"Proliferative",0,75
+"TCGA.24.1422.01",82,3,"",3,"1-10 mm",0,"",23,1,"",NA,0.289478326839832,NA,NA,NA,"Mesenchymal",0,50
+"TCGA.24.1424.01",67,3,"",3,"1-10 mm",0,"",183,0,"Complete Remission/Response",NA,0.0254730035397708,NA,183,0,"Proliferative",NA,NA
+"TCGA.24.1426.01",43,3,"YES",3,"1-10 mm",0,"",163,0,"Complete Remission/Response",NA,-0.153077109353715,NA,163,0,"Proliferative",10,89
+"TCGA.24.1428.01",50,3,"",3,"1-10 mm",0,"",529,0,"Complete Remission/Response",NA,-0.275620470716,NA,448,1,"Immunoreactive",10,89
+"TCGA.24.1430.01",68,3,"",3,">20 mm",1,"",863,1,"Complete Remission/Response",NA,-0.118131921436031,NA,448,1,"Proliferative",5,95
+"TCGA.24.1431.01",67,3,"YES",3,"1-10 mm",0,"",583,1,"",NA,-0.0868901657243299,NA,199,1,"Differentiated",NA,NA
+"TCGA.24.1434.01",59,3,"YES",3,"1-10 mm",0,"",568,1,"Partial Remission/Response",NA,0.395244182614216,NA,337,1,"Mesenchymal",10,89
+"TCGA.24.1435.01",57,3,"NO",3,"1-10 mm",0,"",1324,1,"Complete Remission/Response",NA,-0.00474560214654726,NA,505,1,"Immunoreactive",5,94
+"TCGA.24.1436.01",57,3,"YES",3,"1-10 mm",0,"",260,1,"Partial Remission/Response",NA,0.122722791307556,NA,NA,NA,"Immunoreactive",10,90
+"TCGA.24.1463.01",70,3,"",3,">20 mm",1,"",2218,1,"Complete Remission/Response",NA,0.118429689273184,NA,971,1,"Mesenchymal",24,75
+"TCGA.24.1464.01",70,3,"YES",3,">20 mm",1,"",379,1,"",NA,-0.209265672812076,NA,323,1,"Differentiated",9,90
+"TCGA.24.1466.01",74,3,"",3,"1-10 mm",0,"",1373,1,"Complete Remission/Response",NA,-0.30349595546333,NA,491,1,"Differentiated",9,90
+"TCGA.24.1467.01",51,3,"YES",3,"1-10 mm",0,"",3224,1,"Complete Remission/Response",NA,-0.241438692422513,NA,1252,1,"Differentiated",4,95
+"TCGA.24.1469.01",71,3,"",3,"1-10 mm",0,"",277,0,"Complete Remission/Response",NA,-0.18107420896998,NA,277,0,"Proliferative",4,95
+"TCGA.24.1470.01",54,3,"",3,"1-10 mm",0,"",105,0,"Complete Remission/Response",NA,-0.153045347694577,NA,104,0,"Immunoreactive",NA,NA
+"TCGA.24.1471.01",60,3,"YES",3,">20 mm",1,"",36,0,"",NA,-0.16608339189602,NA,36,0,"Differentiated",1,98
+"TCGA.24.1474.01",57,3,"",3,"1-10 mm",0,"",676,1,"Partial Remission/Response",NA,0.0920960430467012,NA,331,1,"Immunoreactive",1,98
+"TCGA.24.1544.01",71,3,"",3,"1-10 mm",0,"",820,1,"Partial Remission/Response",NA,0.060186585681521,NA,643,1,"Proliferative",20,75
+"TCGA.24.1545.01",69,3,"",3,">20 mm",1,"",1746,1,"Complete Remission/Response",NA,0.328883910196828,NA,861,1,"Mesenchymal",30,70
+"TCGA.24.1546.01",46,3,"",3,"1-10 mm",0,"",1955,1,"",NA,0.384086674616036,NA,NA,NA,"Mesenchymal",40,60
+"TCGA.24.1548.01",57,3,"",3,"1-10 mm",0,"",493,1,"Complete Remission/Response",NA,-0.186970216354709,NA,207,1,"Proliferative",5,95
+"TCGA.24.1549.01",58,3,"",3,"",NA,"",1721,1,"Complete Remission/Response",NA,-0.24855840302388,NA,1042,1,"Immunoreactive",10,85
+"TCGA.24.1550.01",49,3,"",3,"1-10 mm",0,"",1249,1,"Complete Remission/Response",NA,0.185319137601958,NA,892,1,"Mesenchymal",25,70
+"TCGA.24.1551.01",53,3,"",3,"1-10 mm",0,"",1579,1,"Complete Remission/Response",NA,0.0447892441957269,NA,764,1,"Immunoreactive",5,90
+"TCGA.24.1552.01",77,3,"YES",3,"1-10 mm",0,"",1259,1,"Complete Remission/Response",NA,-0.0944843161207912,NA,403,1,"Differentiated",3,95
+"TCGA.24.1553.01",53,3,"",3,"1-10 mm",0,"",1767,1,"Complete Remission/Response",NA,0.0390490243552035,NA,553,1,"Immunoreactive",5,95
+"TCGA.24.1555.01",50,3,"",3,"",NA,"",2692,1,"Complete Remission/Response",NA,-0.349187907445114,NA,1577,1,"Differentiated",20,80
+"TCGA.24.1556.01",50,2,"",3,"1-10 mm",0,"",2148,1,"Complete Remission/Response",NA,-0.0641997910097174,NA,549,1,"Immunoreactive",10,90
+"TCGA.24.1557.01",49,3,"",3,">20 mm",1,"",1213,1,"Partial Remission/Response",NA,-0.119328747568964,NA,447,1,"Differentiated",8,90
+"TCGA.24.1558.01",73,3,"",3,"1-10 mm",0,"",594,1,"Partial Remission/Response",NA,0.0748618695943863,NA,273,1,"Proliferative",2,98
+"TCGA.24.1560.01",51,3,"",NA,"1-10 mm",0,"",1341,1,"Complete Remission/Response",NA,-0.108012803450358,NA,143,1,"Proliferative",2,98
+"TCGA.24.1562.01",67,3,"",3,"1-10 mm",0,"",1384,1,"Complete Remission/Response",NA,0.0371688326779771,NA,228,1,"Differentiated",10,80
+"TCGA.24.1563.01",66,3,"",3,"1-10 mm",0,"",1451,1,"Complete Remission/Response",NA,0.0710294238630019,NA,396,1,"Mesenchymal",10,85
+"TCGA.24.1564.01",67,3,"",3,"1-10 mm",0,"",787,1,"Complete Remission/Response",NA,0.0726122753469277,NA,221,1,"Mesenchymal",20,79
+"TCGA.24.1565.01",74,3,"YES",3,"1-10 mm",0,"",312,1,"Partial Remission/Response",NA,-0.128226953575323,NA,145,1,"Differentiated",5,95
+"TCGA.24.1567.01",54,3,"",3,"1-10 mm",0,"",524,1,"",NA,0.0124282212225701,NA,335,1,"Proliferative",5,95
+"TCGA.24.1603.01",53,3,"",3,"",NA,"",2742,1,"Complete Remission/Response",NA,-0.0850420445823254,NA,992,1,"Proliferative",0,87
+"TCGA.24.1604.01",66,3,"",3,"",NA,"",2688,1,"Complete Remission/Response",NA,0.151159289116862,NA,NA,NA,"Differentiated",0,50
+"TCGA.24.1614.01",57,3,"",3,"1-10 mm",0,"",1470,1,"Complete Remission/Response",NA,-0.0706035903560441,NA,644,1,"Proliferative",8,90
+"TCGA.24.1842.01",49,3,"YES",3,"1-10 mm",0,"",253,0,"Complete Remission/Response",NA,0.0262699407947778,NA,253,0,"Immunoreactive",15,85
+"TCGA.24.1843.01",66,3,"YES",3,"1-10 mm",0,"",106,0,"Complete Remission/Response",NA,-0.16334032830077,NA,106,0,"Immunoreactive",25,75
+"TCGA.24.1844.01",64,3,"",3,"1-10 mm",0,"",113,0,"",NA,-0.327305814212025,NA,113,0,"Differentiated",20,80
+"TCGA.24.1845.01",42,3,"",3,"1-10 mm",0,"",116,0,"",NA,-0.25185363665161,NA,116,0,"Differentiated",5,95
+"TCGA.24.1846.01",45,3,"YES",3,"1-10 mm",0,"",133,0,"",NA,0.0826190361848784,NA,133,0,"Immunoreactive",10,70
+"TCGA.24.1847.01",45,4,"YES",3,"1-10 mm",0,"",343,0,"Complete Remission/Response",NA,-0.13518426312927,NA,343,0,"Immunoreactive",10,90
+"TCGA.24.1849.01",80,3,"YES",3,"1-10 mm",0,"",176,0,"Complete Remission/Response",NA,0.134307431463921,NA,175,0,"Mesenchymal",20,80
+"TCGA.24.1850.01",72,3,"YES",3,"1-10 mm",0,"",168,0,"Complete Remission/Response",NA,0.0121524193500058,NA,167,0,"Proliferative",20,80
+"TCGA.24.1852.01",55,3,"",3,"1-10 mm",0,"",2201,1,"Complete Remission/Response",NA,-0.098486540765259,NA,1009,1,NA,20,80
+"TCGA.24.1852.02",55,3,"",3,"1-10 mm",0,"",2201,1,"Complete Remission/Response",NA,-0.278438998335691,NA,NA,NA,NA,5,95
+"TCGA.24.1920.01",74,3,"",3,"1-10 mm",0,"",298,0,"Complete Remission/Response",NA,0.0551223944746804,NA,298,0,"Proliferative",10,90
+"TCGA.24.1923.01",51,3,"YES",3,"1-10 mm",0,"",690,1,"Complete Remission/Response",NA,0.100586184252667,NA,343,1,"Differentiated",15,70
+"TCGA.24.1924.01",65,3,"YES",3,"1-10 mm",0,"",919,1,"Complete Remission/Response",NA,-0.258165201227332,NA,320,1,"Immunoreactive",10,70
+"TCGA.24.1927.01",59,3,"",3,"1-10 mm",0,"",500,1,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.24.1928.01",77,3,"",3,"11-20 mm",1,"",336,1,"Progressive Disease",NA,0.135687509072297,NA,70,1,"Mesenchymal",15,80
+"TCGA.24.1930.01",53,3,"",3,"1-10 mm",0,"",2467,1,"Complete Remission/Response",NA,0.321380472934551,NA,543,1,"Immunoreactive",10,90
+"TCGA.24.2019.01",46,3,"",3,"1-10 mm",0,"",148,0,"",NA,-0.165631040807821,NA,148,0,"Proliferative",33,65
+"TCGA.24.2020.01",67,3,"",3,"1-10 mm",0,"",4624,1,"Complete Remission/Response",NA,-0.13454379603178,NA,723,1,"Proliferative",0,100
+"TCGA.24.2023.01",54,3,"",3,"1-10 mm",0,"",1364,1,"Complete Remission/Response",NA,-0.195016569831749,NA,1069,1,"Differentiated",20,80
+"TCGA.24.2024.01",72,3,"",3,"1-10 mm",0,"",1769,1,"Complete Remission/Response",NA,0.0670178947449319,NA,421,1,"Differentiated",5,95
+"TCGA.24.2026.01",79,3,"YES",3,">20 mm",1,"",1059,1,"",NA,-0.00973099592671836,NA,NA,NA,"Immunoreactive",15,85
+"TCGA.24.2027.01",51,4,"",3,">20 mm",1,"",3337,1,"Complete Remission/Response",NA,-0.256422186048988,NA,617,1,"Proliferative",5,95
+"TCGA.24.2029.01",75,3,"",3,">20 mm",1,"",439,1,"Complete Remission/Response",NA,0.0287793033441339,NA,372,1,"Immunoreactive",NA,NA
+"TCGA.24.2030.01",87,3,"",3,">20 mm",1,"",1701,1,"Complete Remission/Response",NA,-0.116948350117378,NA,646,1,"Proliferative",10,90
+"TCGA.24.2033.01",87,3,"",3,">20 mm",1,"",562,1,"Partial Remission/Response",NA,0.109683364591786,NA,351,1,"Mesenchymal",NA,NA
+"TCGA.24.2035.01",65,3,"",3,"1-10 mm",0,"",857,1,"Partial Remission/Response",NA,0.239498092574888,NA,287,1,"Mesenchymal",50,50
+"TCGA.24.2036.01",50,3,"",3,"1-10 mm",0,"",1947,1,"Complete Remission/Response",NA,-0.151997869799702,NA,914,1,"Proliferative",10,90
+"TCGA.24.2038.01",68,3,"",NA,"1-10 mm",0,"",1354,1,"Complete Remission/Response",NA,0.00453663355228596,NA,1169,1,"Differentiated",5,95
+"TCGA.24.2260.01",74,3,"",3,"1-10 mm",0,"",1100,1,"Complete Remission/Response",NA,0.0442584920804407,NA,667,1,"Proliferative",10,80
+"TCGA.24.2261.01",76,3,"YES",3,"11-20 mm",1,"",24,1,"",NA,0.169292838047929,NA,NA,NA,"Immunoreactive",9,85
+"TCGA.24.2262.01",57,3,"",3,"1-10 mm",0,"",11,1,"",NA,0.00125812084670883,NA,NA,NA,"Differentiated",9,75
+"TCGA.24.2267.01",58,2,"YES",3,"No Macroscopic disease",0,"",1446,1,"Complete Remission/Response",NA,-0.0588803839671199,NA,512,1,"Immunoreactive",4,95
+"TCGA.24.2271.01",55,3,"YES",3,">20 mm",1,"YES",962,1,"",NA,0.230443840841255,NA,827,1,"Differentiated",20,80
+"TCGA.24.2280.01",74,3,"",3,"1-10 mm",0,"",2143,0,"Complete Remission/Response",NA,0.258264573908721,NA,534,1,"Mesenchymal",15,83
+"TCGA.24.2281.01",68,2,"YES",3,"1-10 mm",0,"",1357,0,"Complete Remission/Response",NA,-0.107324990981647,NA,1356,0,"Immunoreactive",25,70
+"TCGA.24.2288.01",70,3,"YES",3,">20 mm",1,"",25,1,"",NA,0.144690843920833,NA,NA,NA,"Immunoreactive",10,85
+"TCGA.24.2289.01",68,4,"",3,">20 mm",1,"",2049,1,"Complete Remission/Response",NA,0.113191938403189,NA,568,1,"Mesenchymal",10,89
+"TCGA.24.2290.01",56,3,"",3,"1-10 mm",0,"",1102,1,"Complete Remission/Response",NA,0.0896726230600562,NA,324,1,"Immunoreactive",15,70
+"TCGA.24.2293.01",47,NA,"",3,">20 mm",1,"",506,1,"Partial Remission/Response",NA,0.430638028262078,NA,NA,NA,"Mesenchymal",0,55
+"TCGA.24.2295.01",69,3,"YES",3,">20 mm",1,"",1007,1,"Complete Remission/Response",NA,-0.0156580387844071,NA,281,1,NA,0,90
+"TCGA.24.2297.01",56,3,"",3,">20 mm",1,"",1699,1,"Complete Remission/Response",NA,-0.126973077670174,NA,NA,NA,"Differentiated",0,90
+"TCGA.24.2298.01",55,3,"",3,">20 mm",1,"",1620,1,"Complete Remission/Response",NA,0.219755368560277,NA,469,1,"Mesenchymal",0,74
+"TCGA.25.1312.01",69,4,"",3,"1-10 mm",0,"",31,1,"",NA,0.135268877131895,NA,NA,NA,"Proliferative",10,90
+"TCGA.25.1313.01",62,4,"",3,"1-10 mm",0,"",820,1,"Complete Remission/Response",NA,0.0672301978840691,NA,394,1,"Immunoreactive",30,70
+"TCGA.25.1314.01",42,4,"",3,"1-10 mm",0,"",1004,1,"Partial Remission/Response",NA,0.104485309329695,NA,273,1,"Differentiated",2,98
+"TCGA.25.1315.01",50,3,"",3,"1-10 mm",0,"",1583,1,"Partial Remission/Response",NA,-0.341093619103249,NA,153,1,"Proliferative",5,95
+"TCGA.25.1317.01",66,3,"",3,"",NA,"",61,1,"",NA,0.220111714754848,NA,NA,NA,"Proliferative",40,50
+"TCGA.25.1318.01",54,3,"",3,"1-10 mm",0,"",1064,1,"Partial Remission/Response",NA,0.192907673227878,NA,185,1,"Differentiated",15,80
+"TCGA.25.1319.01",73,3,"",3,"11-20 mm",1,"",1977,1,"",NA,-0.357109309153006,NA,730,1,"Proliferative",5,90
+"TCGA.25.1320.01",65,3,"",3,"1-10 mm",0,"",1155,1,"Progressive Disease",NA,0.338537304385873,NA,423,1,"Mesenchymal",25,70
+"TCGA.25.1321.01",65,3,"",3,"No Macroscopic disease",0,"",1033,1,"Complete Remission/Response",NA,-0.0448435428688872,NA,453,1,"Differentiated",10,90
+"TCGA.25.1322.01",62,4,"",3,">20 mm",1,"",91,1,"",NA,0.0517741640062791,NA,NA,NA,"Immunoreactive",10,75
+"TCGA.25.1323.01",72,3,"",3,"1-10 mm",0,"",395,1,"Complete Remission/Response",0.154217633606436,0.12099910227819,NA,365,1,"Proliferative",0,70
+"TCGA.25.1324.01",74,3,"",3,"1-10 mm",0,"",1035,1,"",NA,-0.0043226000581225,NA,NA,NA,"Proliferative",10,90
+"TCGA.25.1325.01",77,4,"",3,">20 mm",1,"",976,1,"",NA,-0.187490063042818,NA,NA,NA,"Proliferative",5,95
+"TCGA.25.1326.01",61,3,"",3,"1-10 mm",0,"",1249,1,"Partial Remission/Response",NA,0.149802324532645,NA,395,1,"Mesenchymal",20,75
+"TCGA.25.1328.01",38,3,"",3,"1-10 mm",0,"",2009,1,"Partial Remission/Response",NA,0.318256307260237,NA,244,1,"Mesenchymal",5,90
+"TCGA.25.1329.01",76,3,"",3,"11-20 mm",1,"",457,1,"",NA,0.155242341664263,NA,NA,NA,"Mesenchymal",5,75
+"TCGA.25.1623.01",71,4,"",3,"No Macroscopic disease",0,"",565,1,"Complete Remission/Response",NA,0.383398933966323,NA,342,1,"Mesenchymal",40,55
+"TCGA.25.1625.01",66,3,"",3,"1-10 mm",0,"",840,1,"Stable Disease",NA,0.192944291222843,NA,526,1,"Differentiated",5,60
+"TCGA.25.1626.01",65,3,"",3,">20 mm",1,"",518,1,"Partial Remission/Response",NA,0.54239925919729,NA,318,1,"Mesenchymal",40,55
+"TCGA.25.1627.01",73,3,"",3,"1-10 mm",0,"",394,1,"",NA,0.119999337928795,NA,NA,NA,"Proliferative",8,90
+"TCGA.25.1628.01",67,3,"",3,"1-10 mm",0,"",627,1,"Stable Disease",NA,0.393731570321379,NA,286,1,"Mesenchymal",10,85
+"TCGA.25.1630.01",73,3,"",3,"1-10 mm",0,"",1162,1,"Complete Remission/Response",NA,-0.0754977097466148,NA,NA,NA,"Immunoreactive",10,89
+"TCGA.25.1631.01",73,3,"",3,"1-10 mm",0,"",9,1,"",NA,0.200492632886352,NA,NA,NA,"Differentiated",10,80
+"TCGA.25.1632.01",68,4,"",3,"1-10 mm",0,"",1799,1,"Complete Remission/Response",NA,0.134493110664291,NA,537,1,"Proliferative",5,94
+"TCGA.25.1633.01",64,3,"",3,"1-10 mm",0,"",1891,1,"Complete Remission/Response",NA,0.26369809023475,NA,616,1,"Mesenchymal",5,94
+"TCGA.25.1635.01",71,3,"",3,"1-10 mm",0,"",1583,1,"Complete Remission/Response",NA,0.186443342922463,NA,614,1,"Mesenchymal",15,80
+"TCGA.25.1870.01",59,3,"",3,"11-20 mm",1,"",455,1,"Partial Remission/Response",NA,-0.13252183120794,NA,242,1,"Proliferative",NA,NA
+"TCGA.25.1871.01",70,3,"",3,"11-20 mm",1,"",760,1,"Progressive Disease",NA,-0.0136882674706649,NA,230,1,"Proliferative",30,70
+"TCGA.25.1877.01",81,3,"",3,"1-10 mm",0,"",730,1,"Complete Remission/Response",NA,-0.236309527503936,NA,549,1,"Proliferative",10,90
+"TCGA.25.1878.01",60,3,"",3,"1-10 mm",0,"",2587,1,"Complete Remission/Response",NA,-0.426364443876097,NA,971,1,"Immunoreactive",NA,NA
+"TCGA.25.2042.01",60,3,"",3,">20 mm",1,"",396,1,"Progressive Disease",NA,0.444639355658506,NA,NA,NA,"Mesenchymal",68,30
+"TCGA.25.2390.01",80,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.25.2391.01",57,3,"",3,">20 mm",1,"",1492,1,"Complete Remission/Response",NA,-0.119201926790219,NA,NA,NA,"Differentiated",10,89
+"TCGA.25.2392.01",75,4,"",3,"11-20 mm",1,"",31,1,"",NA,-0.0180909804844722,NA,NA,NA,"Immunoreactive",5,94
+"TCGA.25.2396.01",71,3,"",3,"No Macroscopic disease",0,"",92,1,"",NA,-0.099284464498209,NA,NA,NA,"Immunoreactive",10,90
+"TCGA.25.2397.01",59,4,"",3,"No Macroscopic disease",0,"",365,1,"",NA,-0.00609635917328534,NA,NA,NA,"Differentiated",5,95
+"TCGA.25.2398.01",71,3,"",3,"1-10 mm",0,"",1369,1,"Complete Remission/Response",NA,0.317377957389957,NA,577,1,"Mesenchymal",35,60
+"TCGA.25.2399.01",80,3,"",3,">20 mm",1,"",608,1,"Partial Remission/Response",NA,-0.0132434903661981,NA,243,1,"Mesenchymal",5,90
+"TCGA.25.2400.01",76,3,"",3,"No Macroscopic disease",0,"",1278,1,"Complete Remission/Response",NA,-0.273666576192144,NA,577,1,"Proliferative",10,89
+"TCGA.25.2401.01",64,3,"",3,"1-10 mm",0,"",90,1,"",NA,0.160145859985431,NA,NA,NA,"Mesenchymal",10,89
+"TCGA.25.2404.01",38,3,"",3,"No Macroscopic disease",0,"",883,1,"Complete Remission/Response",NA,0.305485034397352,NA,425,1,"Mesenchymal",28,70
+"TCGA.25.2408.01",37,4,"",2,"1-10 mm",0,"",943,1,"Partial Remission/Response",NA,0.188549851856211,NA,333,1,"Mesenchymal",9,90
+"TCGA.25.2409.01",71,4,"",3,"1-10 mm",0,"",821,1,"Complete Remission/Response",NA,0.155729522866476,NA,303,1,"Differentiated",4,94
+"TCGA.29.1688.01",39,3,"",2,"",NA,"YES",2400,1,"Stable Disease",NA,-0.286862600289409,NA,183,1,"Immunoreactive",0,100
+"TCGA.29.1690.01",66,3,"",2,"11-20 mm",1,"",1448,1,"",NA,0.0671770274450346,NA,NA,NA,"Mesenchymal",0,100
+"TCGA.29.1691.01",51,3,"",2,"1-10 mm",0,"",1470,1,"Complete Remission/Response",NA,-0.134657754610534,NA,613,1,"Proliferative",0,98
+"TCGA.29.1692.01",58,3,"",2,"11-20 mm",1,"",2872,1,"Complete Remission/Response",NA,-0.0284948369155698,NA,549,1,NA,40,60
+"TCGA.29.1692.02",58,3,"",2,"11-20 mm",1,"",2872,1,"Complete Remission/Response",NA,-0.189473133357071,NA,NA,NA,NA,20,60
+"TCGA.29.1693.01",72,3,"YES",3,">20 mm",1,"YES",3096,0,"Complete Remission/Response",NA,-0.12222428905737,NA,694,1,"Mesenchymal",0,98
+"TCGA.29.1694.01",45,3,"",NA,"11-20 mm",1,"",1187,1,"Stable Disease",NA,0.132735337852126,NA,NA,NA,"Differentiated",15,85
+"TCGA.29.1695.01",62,3,"",2,">20 mm",1,"",1229,1,"",NA,0.058362665526939,NA,NA,NA,"Mesenchymal",0,100
+"TCGA.29.1696.01",43,3,"NO",2,"1-10 mm",0,"",1032,1,"Partial Remission/Response",NA,-0.256585397147619,NA,342,1,"Differentiated",0,100
+"TCGA.29.1697.01",62,3,"",3,">20 mm",1,"",949,1,"Complete Remission/Response",NA,-0.439273604354196,NA,499,1,"Proliferative",0,98
+"TCGA.29.1698.01",53,3,"",3,"1-10 mm",0,"",2078,0,"Complete Remission/Response",NA,0.178658885925216,NA,180,1,"Mesenchymal",45,50
+"TCGA.29.1699.01",57,3,"YES",3,"1-10 mm",0,"",1106,1,"",NA,0.022011586749435,NA,NA,NA,"Immunoreactive",0,98
+"TCGA.29.1701.01",56,3,"YES",3,"",NA,"YES",515,1,"Partial Remission/Response",NA,-0.105977044044138,NA,298,1,"Immunoreactive",0,98
+"TCGA.29.1702.01",84,3,"",3,"1-10 mm",0,"",728,1,"Complete Remission/Response",NA,-0.0788848500184905,NA,285,1,"Proliferative",0,98
+"TCGA.29.1703.01",56,3,"",2,"1-10 mm",0,"",1815,1,"Complete Remission/Response",NA,-0.171542590597938,NA,324,1,"Proliferative",0,90
+"TCGA.29.1704.01",61,3,"",3,"11-20 mm",1,"",1587,0,"Complete Remission/Response",NA,-0.107167029068556,NA,568,1,NA,NA,NA
+"TCGA.29.1704.02",61,3,"",3,"11-20 mm",1,"",1587,0,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.29.1705.01",47,3,"",2,">20 mm",1,"",555,1,"Complete Remission/Response",NA,0.209249838382293,NA,283,1,"Mesenchymal",0,98
+"TCGA.29.1705.02",47,3,"",2,">20 mm",1,"",555,1,"Complete Remission/Response",NA,0.250390121515232,NA,NA,NA,NA,40,50
+"TCGA.29.1707.01",41,2,"NO",3,"No Macroscopic disease",0,"",1277,0,"Complete Remission/Response",NA,-0.503962100115323,NA,1200,1,"Immunoreactive",0,98
+"TCGA.29.1707.02",41,2,"NO",3,"No Macroscopic disease",0,"",1277,0,"Complete Remission/Response",NA,-0.0272195175239108,NA,NA,NA,NA,10,90
+"TCGA.29.1710.01",54,3,"",2,"1-10 mm",0,"",951,1,"Partial Remission/Response",NA,0.161690599976479,NA,315,1,"Immunoreactive",0,90
+"TCGA.29.1710.02",54,3,"",2,"1-10 mm",0,"",951,1,"Partial Remission/Response",NA,0.0308677778235355,NA,NA,NA,NA,30,50
+"TCGA.29.1711.01",45,3,"",2,"No Macroscopic disease",0,"",1053,0,"Complete Remission/Response",NA,-0.111735541832447,NA,1053,0,"Immunoreactive",0,98
+"TCGA.29.1761.01",80,3,"",3,">20 mm",1,"",528,1,"Stable Disease",NA,0.0656931656504787,NA,NA,NA,"Immunoreactive",10,85
+"TCGA.29.1762.01",59,4,"",2,">20 mm",1,"",2634,1,"Complete Remission/Response",NA,-0.285470954921933,NA,1374,1,"Proliferative",5,75
+"TCGA.29.1763.01",43,2,"",2,"1-10 mm",0,"",2032,0,"Complete Remission/Response",NA,-0.103321747695681,NA,428,1,"Proliferative",0,95
+"TCGA.29.1764.01",49,3,"",2,">20 mm",1,"",1914,0,"Complete Remission/Response",NA,-0.113214864679352,NA,792,1,"Mesenchymal",12,85
+"TCGA.29.1766.01",74,3,"",2,"11-20 mm",1,"",1199,1,"Progressive Disease",NA,0.0926695126432159,NA,672,1,"Mesenchymal",NA,NA
+"TCGA.29.1768.01",50,4,"",3,">20 mm",1,"",952,1,"Stable Disease",NA,0.168612228852698,NA,547,1,"Mesenchymal",50,50
+"TCGA.29.1769.01",40,3,"NO",3,"1-10 mm",0,"",699,0,"Complete Remission/Response",NA,0.0849968121742051,NA,699,0,"Immunoreactive",5,85
+"TCGA.29.1770.01",54,3,"",2,"1-10 mm",0,"",741,0,"Complete Remission/Response",NA,0.305929957794967,NA,377,1,"Mesenchymal",20,80
+"TCGA.29.1770.02",54,3,"",2,"1-10 mm",0,"",741,0,"Complete Remission/Response",NA,0.264763573905364,NA,NA,NA,NA,20,80
+"TCGA.29.1771.01",76,3,"",2,">20 mm",1,"",686,0,"Complete Remission/Response",NA,-0.0859167023327537,NA,594,1,"Differentiated",20,80
+"TCGA.29.1774.01",82,3,"",3,">20 mm",1,"",527,0,"Progressive Disease",NA,-0.305603810385061,NA,233,1,"Proliferative",20,78
+"TCGA.29.1775.01",51,3,"",2,"1-10 mm",0,"",376,0,"Complete Remission/Response",NA,-0.254818468787548,NA,341,1,"Proliferative",20,80
+"TCGA.29.1776.01",63,3,"",3,">20 mm",1,"",360,0,"Stable Disease",NA,0.0399583305692034,NA,360,0,"Differentiated",25,75
+"TCGA.29.1777.01",47,3,"",2,">20 mm",1,"",374,0,"Progressive Disease",NA,0.113358186371892,NA,374,0,"Mesenchymal",20,80
+"TCGA.29.1778.01",77,3,"",3,"No Macroscopic disease",0,"",454,0,"Complete Remission/Response",NA,-0.14843162458682,NA,454,0,"Differentiated",20,80
+"TCGA.29.1781.01",69,3,"",3,"No Macroscopic disease",0,"",255,0,"Complete Remission/Response",NA,-0.0643968405149554,NA,254,0,"Immunoreactive",0,80
+"TCGA.29.1783.01",58,3,"",3,"1-10 mm",0,"",220,0,"",NA,0.0759636400157024,NA,219,0,"Mesenchymal",20,78
+"TCGA.29.1784.01",55,3,"YES",3,"No Macroscopic disease",0,"",163,0,"Complete Remission/Response",NA,-0.340580653782884,NA,163,0,"Immunoreactive",10,90
+"TCGA.29.1785.01",55,3,"YES",3,">20 mm",1,"",1104,1,"Complete Remission/Response",NA,-0.0562624078489566,NA,473,1,"Immunoreactive",10,88
+"TCGA.29.2414.01",75,3,"",2,"11-20 mm",1,"NO",2621,1,"Complete Remission/Response",NA,0.149834005592011,NA,551,1,"Proliferative",0,60
+"TCGA.29.2414.02",75,3,"",2,"11-20 mm",1,"NO",2621,1,"Complete Remission/Response",NA,-0.0877243078055392,NA,NA,NA,NA,30,60
+"TCGA.29.2425.01",60,3,"NO",2,">20 mm",1,"",1977,0,"Complete Remission/Response",NA,-0.0244210952545683,NA,1577,1,"Proliferative",15,80
+"TCGA.29.2427.01",60,3,"",3,">20 mm",1,"",1900,0,"Complete Remission/Response",NA,-0.0935596025342204,NA,1581,1,"Immunoreactive",15,80
+"TCGA.29.2428.01",58,3,"YES",3,">20 mm",1,"",1372,0,"Complete Remission/Response",NA,-0.0965481991986603,NA,1372,0,"Immunoreactive",5,90
+"TCGA.29.2429.01",79,3,"",3,">20 mm",1,"",421,1,"",NA,0.207607379722615,NA,NA,NA,NA,10,80
+"TCGA.29.2431.01",59,3,"",2,"1-10 mm",0,"",1285,0,"Complete Remission/Response",NA,-0.374602307504148,NA,960,1,NA,20,80
+"TCGA.29.2432.01",61,3,"",3,"11-20 mm",1,"",653,1,"Progressive Disease",NA,-0.065917635460666,NA,173,1,NA,10,90
+"TCGA.29.2434.01",52,3,"",3,"No Macroscopic disease",0,"",349,0,"Complete Remission/Response",NA,-0.1434627167439,NA,349,0,NA,5,95
+"TCGA.29.2435.01",78,4,"",3,"11-20 mm",1,"",34,0,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.29.2436.01",36,3,"",2,"1-10 mm",0,"YES",297,0,"Complete Remission/Response",NA,-0.0562634596898211,NA,297,0,NA,5,95
+"TCGA.29.A5NZ.01",66,3,"",3,"",NA,"",640,0,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.30.1714.01",68,4,"YES",3,"1-10 mm",0,"NO",1158,1,"Complete Remission/Response",NA,-0.188454474894302,NA,241,1,"Differentiated",38,60
+"TCGA.30.1718.01",44,3,"NO",3,"1-10 mm",0,"NO",1579,1,"",NA,-0.0867975802669581,NA,896,1,"Mesenchymal",40,60
+"TCGA.30.1853.01",58,3,"NO",3,"1-10 mm",0,"",1103,1,"Complete Remission/Response",NA,0.0608820320922422,NA,634,1,"Proliferative",1,98
+"TCGA.30.1855.01",61,3,"NO",3,"1-10 mm",0,"NO",75,1,"",NA,0.07213020182691,NA,NA,NA,"Immunoreactive",40,60
+"TCGA.30.1856.01",56,3,"NO",3,"1-10 mm",0,"NO",477,1,"Partial Remission/Response",NA,-0.0167645315302513,NA,219,1,"Immunoreactive",10,90
+"TCGA.30.1857.01",64,4,"",3,"",NA,"",8,1,"",NA,0.35135417890448,NA,NA,NA,"Mesenchymal",NA,NA
+"TCGA.30.1859.01",56,NA,"",3,"1-10 mm",0,"",1463,1,"Partial Remission/Response",NA,0.115856012463473,NA,NA,NA,"Proliferative",20,80
+"TCGA.30.1860.01",58,3,"NO",3,">20 mm",1,"NO",1366,1,"Complete Remission/Response",NA,-0.414192773537721,NA,397,1,"Immunoreactive",10,90
+"TCGA.30.1861.01",74,3,"",3,"1-10 mm",0,"",1058,1,"",NA,-0.0179574148642798,NA,NA,NA,"Mesenchymal",25,75
+"TCGA.30.1862.01",65,4,"NO",2,">20 mm",1,"",186,1,"",NA,0.223631741738817,NA,NA,NA,"Mesenchymal",40,60
+"TCGA.30.1866.01",61,4,"",2,"1-10 mm",0,"",1114,1,"Complete Remission/Response",NA,-0.413070511850411,NA,284,1,"Proliferative",NA,NA
+"TCGA.30.1867.01",46,4,"",NA,"",NA,"",37,1,"",NA,0.117998761570922,NA,NA,NA,"Mesenchymal",25,75
+"TCGA.30.1869.01",50,4,"NO",3,"1-10 mm",0,"",1563,1,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.30.1880.01",56,3,"NO",3,"No Macroscopic disease",0,"",1751,1,"Partial Remission/Response",NA,0.147263706283715,NA,348,1,"Differentiated",1,99
+"TCGA.30.1887.01",67,3,"YES",2,"1-10 mm",0,"YES",738,1,"Partial Remission/Response",NA,-0.189535504277405,NA,NA,NA,"Immunoreactive",10,90
+"TCGA.30.1892.01",52,3,"",3,"1-10 mm",0,"",1484,1,"Complete Remission/Response",NA,0.164224293909713,NA,253,1,"Mesenchymal",10,80
+"TCGA.31.1944.01",47,3,"YES",3,"No Macroscopic disease",0,"YES",1386,0,"Complete Remission/Response",NA,-0.186175007078992,NA,678,1,"Differentiated",20,70
+"TCGA.31.1946.01",30,3,"NO",3,"No Macroscopic disease",0,"YES",918,0,"",NA,0.0858698782134829,NA,664,1,"Mesenchymal",13,85
+"TCGA.31.1950.01",76,3,"NO",2,"1-10 mm",0,"NO",571,0,"Partial Remission/Response",NA,-0.314986809283451,NA,349,1,"Immunoreactive",15,80
+"TCGA.31.1951.01",58,3,"YES",3,"No Macroscopic disease",0,"YES",684,0,"",NA,0.0263512990395808,NA,658,1,"Mesenchymal",19,80
+"TCGA.31.1953.01",52,3,"NO",3,"",NA,"NO",204,0,"Progressive Disease",NA,0.0478510364215265,NA,70,1,"Immunoreactive",8,90
+"TCGA.31.1955.01",43,3,"NO",3,"No Macroscopic disease",0,"YES",1293,0,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.31.1956.01",60,3,"YES",3,"",NA,"NO",1342,0,"",NA,0.21749369968765,NA,1341,0,"Immunoreactive",45,50
+"TCGA.31.1959.01",49,4,"YES",2,"",NA,"YES",67,0,"",NA,0.0724386716763724,NA,66,0,"Mesenchymal",37,60
+"TCGA.36.1568.01",52,3,"NO",3,"",NA,"",875,0,"Partial Remission/Response",NA,0.324331759177508,NA,547,1,"Differentiated",5,95
+"TCGA.36.1569.01",52,3,"YES",3,"1-10 mm",0,"",885,0,"Partial Remission/Response",NA,0.304469976706291,NA,884,0,"Mesenchymal",10,90
+"TCGA.36.1570.01",49,3,"YES",3,">20 mm",1,"YES",655,0,"Partial Remission/Response",NA,-0.259931246250192,NA,375,1,"Differentiated",5,94
+"TCGA.36.1571.01",53,3,"NO",3,"No Macroscopic disease",0,"NO",695,1,"Complete Remission/Response",NA,-0.0615453473947117,NA,374,1,"Proliferative",5,94
+"TCGA.36.1574.01",48,3,"",3,">20 mm",1,"",686,0,"Complete Remission/Response",NA,-0.216053335320616,NA,648,1,"Immunoreactive",NA,NA
+"TCGA.36.1575.01",83,3,"NO",3,"No Macroscopic disease",0,"NO",260,0,"",NA,-0.141623770790264,NA,260,0,"Proliferative",10,85
+"TCGA.36.1576.01",76,3,"YES",3,">20 mm",1,"YES",915,0,"Complete Remission/Response",NA,0.447831761993772,NA,816,1,"Mesenchymal",10,88
+"TCGA.36.1577.01",43,2,"",2,"No Macroscopic disease",0,"",783,0,"Complete Remission/Response",NA,-0.138783639139818,NA,783,0,"Proliferative",50,45
+"TCGA.36.1578.01",63,4,"",3,">20 mm",1,"NO",847,0,"",NA,0.0860680136233904,NA,310,1,"Immunoreactive",8,90
+"TCGA.36.1580.01",82,3,"",3,">20 mm",1,"",737,1,"",NA,0.207163246259164,NA,440,1,"Mesenchymal",40,55
+"TCGA.36.1581.01",63,2,"",3,"No Macroscopic disease",0,"",751,0,"Complete Remission/Response",NA,-0.0901368789346651,NA,702,1,"Immunoreactive",NA,NA
+"TCGA.36.2529.01",71,3,"",3,">20 mm",1,"",1066,0,"Complete Remission/Response",NA,-0.0194476593497014,NA,567,1,NA,NA,NA
+"TCGA.36.2530.01",38,3,"NO",3,"11-20 mm",1,"",1004,0,"Complete Remission/Response",NA,0.308965983423841,NA,630,1,NA,7,88
+"TCGA.36.2532.01",61,3,"YES",3,"No Macroscopic disease",0,"YES",897,0,"",NA,-0.069642967527653,NA,897,0,NA,10,85
+"TCGA.36.2533.01",55,3,"YES",3,"",NA,"",NA,NA,"",NA,-0.134984765543048,NA,NA,NA,NA,20,70
+"TCGA.36.2534.01",72,3,"",3,">20 mm",1,"",907,0,"Partial Remission/Response",NA,0.321506181393436,NA,383,1,NA,15,83
+"TCGA.36.2537.01",39,3,"",3,">20 mm",1,"",788,0,"Partial Remission/Response",NA,0.294532484612282,NA,431,1,NA,25,75
+"TCGA.36.2538.01",37,3,"NO",3,"11-20 mm",1,"NO",763,0,"Complete Remission/Response",NA,0.266970827963256,NA,523,1,NA,20,68
+"TCGA.36.2539.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,-0.00988784575948894,NA,NA,NA,NA,NA,NA
+"TCGA.36.2540.01",26,3,"YES",1,">20 mm",1,"YES",724,0,"Complete Remission/Response",NA,0.245242599300284,NA,665,1,NA,8,82
+"TCGA.36.2542.01",59,3,"",3,"1-10 mm",0,"",657,0,"Complete Remission/Response",NA,0.162770104204082,NA,657,0,NA,20,77
+"TCGA.36.2543.01",85,3,"",3,">20 mm",1,"",68,1,"Progressive Disease",NA,-0.0826088090292826,NA,27,1,NA,8,81
+"TCGA.36.2544.01",58,3,"",3,">20 mm",1,"",638,0,"Partial Remission/Response",NA,-0.100729963677872,NA,325,1,NA,12,80
+"TCGA.36.2545.01",42,3,"",3,"No Macroscopic disease",0,"",557,0,"",NA,-0.282368807021467,NA,557,0,NA,10,85
+"TCGA.36.2547.01",64,3,"",3,"No Macroscopic disease",0,"",624,0,"",NA,-0.1057901382109,NA,624,0,NA,20,75
+"TCGA.36.2548.01",57,3,"",3,">20 mm",1,"",431,0,"",NA,-0.00258104966605885,NA,395,1,NA,15,77
+"TCGA.36.2549.01",54,2,"",3,"No Macroscopic disease",0,"",184,0,"",NA,0.055768802541875,NA,184,0,NA,12,83
+"TCGA.36.2551.01",57,3,"NO",3,">20 mm",1,"",492,0,"Complete Remission/Response",NA,-0.277151314760119,NA,338,1,NA,10,75
+"TCGA.36.2552.01",64,2,"",3,"No Macroscopic disease",0,"",349,0,"",NA,0.0994211218866742,NA,349,0,NA,30,67
+"TCGA.3P.A9WA.01",55,2,"",3,"",NA,"",420,0,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.42.2582.01",49,3,"YES",3,"No Macroscopic disease",0,"",435,0,"Stable Disease",NA,-0.141458238781388,NA,616,1,NA,0,100
+"TCGA.42.2587.01",75,3,"YES",3,">20 mm",1,"YES",276,0,"Complete Remission/Response",NA,-0.135535711506351,NA,722,0,NA,0,95
+"TCGA.42.2588.01",61,4,"YES",3,">20 mm",1,"",287,0,"Progressive Disease",NA,-0.155499992010118,NA,267,1,NA,0,85
+"TCGA.42.2589.01",54,3,"YES",3,"1-10 mm",0,"",230,0,"Complete Remission/Response",NA,-0.37089521611572,NA,230,0,NA,25,74
+"TCGA.42.2590.01",57,4,"",2,">20 mm",1,"",227,0,"Progressive Disease",NA,0.00690201862973978,NA,226,1,NA,20,80
+"TCGA.42.2591.01",51,3,"YES",NA,"No Macroscopic disease",0,"",232,0,"Complete Remission/Response",NA,0.135549432714941,NA,681,0,NA,15,80
+"TCGA.42.2593.01",67,3,"YES",3,">20 mm",1,"YES",45,1,"",NA,0.0230079751022438,NA,NA,NA,NA,30,70
+"TCGA.57.1582.01",50,3,"YES",3,"1-10 mm",0,"YES",731,1,"Progressive Disease",NA,-0.00777088424101629,NA,NA,NA,"Proliferative",10,90
+"TCGA.57.1583.01",57,3,"NO",3,"No Macroscopic disease",0,"NO",346,1,"",NA,0.213396806791236,NA,NA,NA,"Proliferative",10,94
+"TCGA.57.1584.01",47,3,"YES",3,"1-10 mm",0,"YES",643,0,"",NA,-0.0533233237671693,NA,530,1,"Differentiated",10,90
+"TCGA.57.1585.01",57,3,"YES",3,"11-20 mm",1,"YES",53,1,"Progressive Disease",NA,0.276320920222476,NA,NA,NA,"Mesenchymal",10,85
+"TCGA.57.1586.01",66,3,"YES",3,"11-20 mm",1,"YES",679,0,"",NA,-0.392439224654201,NA,259,1,"Proliferative",5,94
+"TCGA.57.1992.01",62,1,"YES",3,"No Macroscopic disease",0,"YES",882,0,"Complete Remission/Response",NA,0.00977651545248734,NA,881,0,NA,25,75
+"TCGA.57.1993.01",56,3,"YES",3,"No Macroscopic disease",0,"YES",763,0,"",NA,-0.246894841051309,NA,762,0,"Differentiated",10,90
+"TCGA.57.1994.01",63,NA,"",NA,"",NA,"",761,0,"",NA,-0.030923992541842,NA,761,0,"Immunoreactive",10,80
+"TCGA.59.2348.01",59,3,"",3,"",NA,"",5481,0,"Complete Remission/Response",NA,0.072730392984325,NA,5480,0,"Differentiated",10,85
+"TCGA.59.2349.01",71,1,"",3,"No Macroscopic disease",0,"",2437,1,"Complete Remission/Response",NA,-0.0526983146963041,NA,NA,NA,NA,4,95
+"TCGA.59.2350.01",44,4,"",3,"1-10 mm",0,"",679,1,"Partial Remission/Response",NA,-0.0688668085000258,NA,211,1,"Proliferative",NA,NA
+"TCGA.59.2351.01",51,3,"",3,"1-10 mm",0,"",3532,0,"Complete Remission/Response",NA,0.0568658445716475,NA,2139,1,"Immunoreactive",19,79
+"TCGA.59.2352.01",78,3,"",3,"",NA,"",286,1,"",NA,0.0379386601432947,NA,NA,NA,"Proliferative",10,89
+"TCGA.59.2354.01",63,3,"YES",3,"1-10 mm",0,"",1046,1,"Stable Disease",NA,0.167489706496995,NA,461,1,"Mesenchymal",10,90
+"TCGA.59.2355.01",58,4,"YES",3,">20 mm",1,"",65,1,"",NA,0.07347953951768,NA,NA,NA,"Differentiated",15,85
+"TCGA.59.2363.01",40,3,"NO",3,"No Macroscopic disease",0,"NO",165,0,"Complete Remission/Response",NA,-0.253425944015283,NA,164,0,"Proliferative",10,90
+"TCGA.59.2372.01",73,3,"NO",2,"No Macroscopic disease",0,"NO",1363,1,"",NA,-0.350879453114333,NA,NA,NA,NA,0,100
+"TCGA.59.A5PD.01",55,1,"YES",3,"",NA,"YES",624,1,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.5X.AA5U.01",61,2,"NO",NA,"",NA,"NO",361,0,"Complete Remission/Response",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.61.1721.01",38,4,"YES",1,"",NA,"YES",338,0,"Complete Remission/Response",NA,0.249668253828179,NA,338,0,"Mesenchymal",0,85
+"TCGA.61.1722.01",89,1,"",3,"No Macroscopic disease",0,"NO",246,0,"Stable Disease",NA,-0.119151687335092,NA,245,0,NA,20,80
+"TCGA.61.1724.01",47,3,"YES",3,"No Macroscopic disease",0,"YES",637,1,"Progressive Disease",NA,-0.228512465659127,NA,NA,NA,"Differentiated",5,85
+"TCGA.61.1725.01",40,3,"YES",3,"11-20 mm",1,"YES",956,0,"Stable Disease",NA,-0.00643731759079078,NA,843,1,"Immunoreactive",0,80
+"TCGA.61.1727.01",74,1,"",3,"No Macroscopic disease",0,"NO",564,0,"Complete Remission/Response",NA,-0.0505420445248571,NA,564,0,NA,0,95
+"TCGA.61.1728.01",59,4,"NO",3,"1-10 mm",0,"NO",848,0,"Complete Remission/Response",NA,-0.187157526181241,NA,533,1,"Differentiated",0,90
+"TCGA.61.1733.01",71,3,"YES",3,"No Macroscopic disease",0,"YES",967,0,"Stable Disease",NA,0.251886302339113,NA,174,1,"Mesenchymal",0,98
+"TCGA.61.1734.01",52,1,"YES",3,"",NA,"YES",866,0,"Complete Remission/Response",NA,-0.25573237101691,NA,866,0,NA,10,90
+"TCGA.61.1736.01",45,3,"YES",3,"",NA,"YES",1484,1,"Complete Remission/Response",NA,-0.205219305232363,NA,764,1,"Differentiated",30,70
+"TCGA.61.1737.01",42,4,"YES",3,"1-10 mm",0,"YES",1364,0,"Complete Remission/Response",NA,0.146155647547112,NA,1364,0,"Mesenchymal",0,90
+"TCGA.61.1738.01",60,3,"YES",3,"1-10 mm",0,"YES",1089,1,"Progressive Disease",NA,-0.0890932373506717,NA,276,1,"Immunoreactive",0,98
+"TCGA.61.1740.01",71,3,"YES",3,">20 mm",1,"YES",74,1,"Progressive Disease",NA,-0.1437265854694,NA,NA,NA,"Immunoreactive",0,98
+"TCGA.61.1741.01",76,3,"",3,">20 mm",1,"NO",1024,1,"Complete Remission/Response",NA,-0.0179310814642669,NA,487,1,"Proliferative",0,85
+"TCGA.61.1743.01",53,2,"",2,"No Macroscopic disease",0,"",1329,1,"Complete Remission/Response",NA,-0.108737317645087,NA,809,1,"Proliferative",0,95
+"TCGA.61.1895.01",52,3,"YES",3,"No Macroscopic disease",0,"YES",44,0,"Stable Disease",NA,-0.282008397162022,NA,43,0,"Immunoreactive",8,85
+"TCGA.61.1899.01",81,3,"",3,"No Macroscopic disease",0,"NO",256,0,"Complete Remission/Response",NA,-0.113403808054299,NA,256,0,"Differentiated",5,94
+"TCGA.61.1900.01",51,3,"NO",3,"No Macroscopic disease",0,"NO",176,0,"Stable Disease",NA,0.265453566829584,NA,176,0,"Proliferative",5,95
+"TCGA.61.1901.01",65,4,"YES",3,"",NA,"YES",347,1,"Stable Disease",NA,-0.0464976408921081,NA,329,1,"Differentiated",20,80
+"TCGA.61.1903.01",55,1,"NO",3,"",NA,"NO",396,0,"Complete Remission/Response",NA,-0.0612830857614213,NA,396,0,NA,5,94
+"TCGA.61.1904.01",60,3,"NO",3,"1-10 mm",0,"NO",276,0,"Complete Remission/Response",NA,-0.109004233050458,NA,276,0,"Differentiated",NA,NA
+"TCGA.61.1907.01",63,3,"",3,"11-20 mm",1,"YES",952,0,"Stable Disease",NA,-0.0850776449722244,NA,743,1,"Immunoreactive",5,94
+"TCGA.61.1910.01",56,2,"YES",3,"1-10 mm",0,"YES",1127,0,"Complete Remission/Response",-0.0919918345262721,0.00650000740169031,NA,1126,0,"Differentiated",5,94
+"TCGA.61.1911.01",55,2,"YES",3,"",NA,"YES",1293,0,"Complete Remission/Response",0.0540880745819539,0.10738640879082,NA,843,1,"Immunoreactive",5,95
+"TCGA.61.1913.01",48,3,"",3,"1-10 mm",0,"YES",1488,0,"Complete Remission/Response",NA,-0.639310475386632,NA,1488,0,"Immunoreactive",5,95
+"TCGA.61.1914.01",65,3,"YES",3,">20 mm",1,"YES",1722,0,"Complete Remission/Response",NA,-0.27095342198283,NA,1673,1,"Immunoreactive",10,89
+"TCGA.61.1915.01",50,2,"",3,"",NA,"YES",2061,0,"Complete Remission/Response",NA,-0.039972196687331,NA,2060,0,"Immunoreactive",5,94
+"TCGA.61.1916.01",53,3,"",2,"1-10 mm",0,"YES",475,1,"",NA,0.0715018187341383,NA,326,1,NA,NA,NA
+"TCGA.61.1916.02",53,3,"",2,"1-10 mm",0,"YES",475,1,"",NA,0.278976382035658,NA,NA,NA,NA,5,95
+"TCGA.61.1917.01",60,3,"",3,"",NA,"NO",1321,1,"Complete Remission/Response",NA,-0.096730995703958,NA,NA,NA,"Proliferative",10,80
+"TCGA.61.1918.01",45,4,"",3,"No Macroscopic disease",0,"YES",479,1,"Complete Remission/Response",NA,-0.273930207575455,NA,413,1,"Differentiated",10,80
+"TCGA.61.1919.01",58,3,"",2,"",NA,"",1161,1,"Complete Remission/Response",NA,0.157401634362776,NA,439,1,"Mesenchymal",20,70
+"TCGA.61.1995.01",43,3,"YES",3,"1-10 mm",0,"YES",61,0,"Stable Disease",NA,0.00183539746817912,NA,60,0,"Immunoreactive",10,68
+"TCGA.61.1998.01",48,3,"YES",3,"1-10 mm",0,"YES",168,0,"",NA,-0.000384289882930378,NA,168,0,"Mesenchymal",40,30
+"TCGA.61.2000.01",67,3,"YES",3,"No Macroscopic disease",0,"YES",441,0,"Stable Disease",NA,-0.0762160846446168,NA,339,1,"Immunoreactive",10,65
+"TCGA.61.2003.01",53,3,"YES",2,"1-10 mm",0,"YES",122,0,"Progressive Disease",NA,0.247572429181513,NA,121,0,"Mesenchymal",5,85
+"TCGA.61.2008.01",40,2,"YES",2,"No Macroscopic disease",0,"YES",932,0,"Complete Remission/Response",NA,0.0367955885339472,NA,817,1,"Differentiated",29,69
+"TCGA.61.2008.02",40,2,"YES",2,"No Macroscopic disease",0,"YES",932,0,"Complete Remission/Response",NA,-0.132655059378714,NA,NA,NA,NA,5,80
+"TCGA.61.2009.01",65,3,"YES",3,"11-20 mm",1,"YES",1212,0,"Complete Remission/Response",-0.0174365391611709,0.307074356750316,NA,101,1,"Mesenchymal",5,94
+"TCGA.61.2017.01",64,3,"NO",1,"1-10 mm",0,"NO",1398,0,"Complete Remission/Response",NA,-0.108841818380738,NA,1006,1,NA,5,95
+"TCGA.61.2087.01",49,1,"NO",3,"No Macroscopic disease",0,"NO",146,0,"Complete Remission/Response",-0.514625415742045,-0.329223326674516,NA,146,0,NA,5,94
+"TCGA.61.2088.01",51,3,"NO",3,"No Macroscopic disease",0,"NO",145,0,"",NA,0.00293705730871521,NA,145,0,"Proliferative",5,94
+"TCGA.61.2092.01",57,3,"NO",3,"No Macroscopic disease",0,"NO",1573,0,"Complete Remission/Response",NA,-0.493784283410362,NA,1573,0,"Differentiated",10,90
+"TCGA.61.2094.01",63,3,"",3,"",NA,"",2182,0,"Complete Remission/Response",NA,-0.022259514618182,NA,2182,0,"Immunoreactive",5,90
+"TCGA.61.2095.01",54,3,"",2,"No Macroscopic disease",0,"YES",1875,1,"Complete Remission/Response",NA,0.134069657401875,NA,445,1,"Mesenchymal",38,60
+"TCGA.61.2095.02",54,3,"",2,"No Macroscopic disease",0,"YES",1875,1,"Complete Remission/Response",NA,0.146915792364972,NA,NA,NA,NA,25,75
+"TCGA.61.2096.01",56,1,"",2,"No Macroscopic disease",0,"",1776,0,"Progressive Disease",NA,-0.273428159348712,NA,421,1,NA,29,70
+"TCGA.61.2097.01",71,2,"YES",2,"1-10 mm",0,"YES",1844,0,"Complete Remission/Response",NA,-0.00954672873416704,NA,1844,0,"Differentiated",20,80
+"TCGA.61.2098.01",62,3,"",2,"11-20 mm",1,"NO",1993,0,"Complete Remission/Response",NA,-0.0307396255698581,NA,1992,0,"Proliferative",30,70
+"TCGA.61.2101.01",55,3,"",2,"11-20 mm",1,"",1688,1,"Partial Remission/Response",NA,0.213555611465567,NA,NA,NA,"Differentiated",10,90
+"TCGA.61.2102.01",74,3,"",3,"",NA,"",197,1,"",NA,-0.00480362859006195,NA,NA,NA,"Mesenchymal",85,5
+"TCGA.61.2104.01",53,2,"",2,"No Macroscopic disease",0,"NO",2338,0,"Complete Remission/Response",NA,-0.0402014882668568,NA,1680,1,"Immunoreactive",10,70
+"TCGA.61.2109.01",40,3,"NO",3,">20 mm",1,"NO",629,1,"",NA,0.053093104704296,NA,465,1,"Differentiated",5,75
+"TCGA.61.2110.01",56,3,"",NA,"No Macroscopic disease",0,"",1354,1,"Progressive Disease",NA,0.0258435951062415,NA,213,1,"Differentiated",5,65
+"TCGA.61.2111.01",61,4,"",3,"",NA,"",3825,0,"Complete Remission/Response",NA,-0.0616382293786573,NA,2205,1,"Proliferative",3,80
+"TCGA.61.2113.01",53,2,"YES",3,"",NA,"YES",676,1,"",NA,-0.0455369619262214,NA,291,1,"Mesenchymal",30,70
+"TCGA.61.2610.01",61,3,"",3,"11-20 mm",1,"",1579,1,"Stable Disease",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.61.2610.02",61,3,"",3,"11-20 mm",1,"",1579,1,"Stable Disease",NA,-0.0224152122587885,NA,NA,NA,NA,5,95
+"TCGA.61.2611.02",40,3,"",3,"1-10 mm",0,"YES",483,1,"Complete Remission/Response",NA,-0.12486205251534,NA,NA,NA,NA,80,20
+"TCGA.61.2612.01",63,3,"YES",3,"1-10 mm",0,"YES",193,1,"Stable Disease",NA,-0.0643441439190911,NA,179,1,NA,30,60
+"TCGA.61.2613.01",73,3,"",3,"11-20 mm",1,"",945,1,"Stable Disease",NA,0.0731216331940167,NA,358,1,NA,45,50
+"TCGA.61.2614.01",71,3,"YES",3,"1-10 mm",0,"YES",262,1,"Stable Disease",NA,-0.0548563722639547,NA,38,1,NA,40,55
+"TCGA.72.4231.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4232.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4233.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4234.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4235.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4236.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4237.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4238.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4240.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.72.4241.01",NA,NA,"",NA,"",NA,"",NA,NA,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.VG.A8LO.01",55,4,"",NA,">20 mm",1,"",24,1,"",NA,NA,NA,NA,NA,NA,NA,NA
+"TCGA.WR.A838.01",72,3,"YES",3,"",NA,"YES",304,1,"Progressive Disease",NA,NA,NA,NA,NA,NA,NA,NA
