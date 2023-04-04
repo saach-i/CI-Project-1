@@ -1,5 +1,5 @@
 # load the ABSOLUTE data file containing absolute ploidy values
-ploidy_tcga <- read.delim("/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/TCGA Ploidy data.txt", sep="\t")
+ploidy_tcga <- read.delim("../TCGA Ploidy data.txt", sep="\t")
 
 #subsetting into a new df  so that only tcga ovarian cancer data remains
 ploidy_tcga_ovc<-subset(ploidy_tcga, COHORT=="TCGA Ovarian Cancer") #need to use a double equal sign here
