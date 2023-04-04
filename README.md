@@ -5,6 +5,11 @@ This repository contains the code required to reproduce the results presented in
 
 S.Sachdev, H.Lu, S.Ghaem-Maghami, De-convoluting cancer genome evolution following TP53 mutation in high grade serous ovarian cancer (2023).
 
+# Code
+All RScripts used in this study are stored in the Script folder.
+
+The code for all graphics are embedded in each script.
+
 # Data
 All the data files required to reproduce the results in this paper are stored in the Data folder. This study used  publicly available datasets from the TCGA HGSOC study, [previously published](https://www.nature.com/articles/nature10166).
 
@@ -24,8 +29,4 @@ All the data files required to reproduce the results in this paper are stored in
 
 ***ClustNum*** contains the ploidy classification for each patient.
 
-# Code
-All RScripts used in this study are stored in the Script folder.
-
-The code for all graphics are embedded in each script.
 
