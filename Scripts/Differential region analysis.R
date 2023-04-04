@@ -1,6 +1,6 @@
 # Limma - differential region analysis 
 library(limma)
-Limma_SigCN <- read.csv("/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/limma_signficantCN_TCGA", header = TRUE)
+Limma_SigCN <- read.csv("../limma_signficantCN_TCGA", header = TRUE)
 Limma_SigCN[1:3, 1:3]
 ploidy_tcga_ovc$ARRAY
 ploidy_tcga_ovc$ClustNum <- as.numeric(ploidy_tcga_ovc$ClustNum)
