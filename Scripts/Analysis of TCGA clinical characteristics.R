@@ -83,7 +83,7 @@ plot(survfit(tcga_ploidy_os ~ 0),
 
 
 # Reading in the clinical data - this dataset includes information on the progression free survival 
-clin_data <- read.csv("/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/TCGA_ov_clinical.csv", row.names = 1)
+clin_data <- read.csv("../TCGA_ov_clinical.csv", row.names = 1)
 colnames(clin_data) 
 dim(clin_data)
 
