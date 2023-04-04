@@ -1,4 +1,4 @@
-# De-convoluting cancer genome evolution following *TP53* mutation in high grade serous ovarian cancer.
+# De-convoluting cancer genome evolution following *TP53* mutation in high-grade serous ovarian cancer.
 ### CI Project 1
 
 This repository contains the code required to reproduce the results presented in the following paper:
@@ -28,3 +28,4 @@ All the data files required to reproduce the results in this paper are stored in
 All RScripts used in this study are stored in the Script folder.
 
 The code for all graphics are embedded in each script.
+
