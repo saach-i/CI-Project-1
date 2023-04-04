@@ -17,10 +17,14 @@ All the data files required to reproduce the results in this paper are stored in
 **limma_signficantCN_TCGA** contains the all-lesions output from the GISTIC 2.0 analysis.
 
 **mutations_ov_tcga** contains the mutation data for the key HGSOC genes.
+
 **TLSMCPclinical_ov_TCGA.RDS** contains the output from the MCPcounter estimation, including TLS levels.
+
 **CORE _TCGA** contains the 3 GRanges objects (the summative segmented copy number object and the 2 larger, objects which define genomic ranges for deletions and gains).
+
 **ClustNum** contains the ploidy classification for each patient.
 
 # Code
 All RScripts used in this study are stored in the Script folder.
 
+The code for all graphics are embedded in each script.
