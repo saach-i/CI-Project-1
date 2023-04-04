@@ -81,7 +81,7 @@ rownames(chi_results) <- "p.value"
 chi_results1 <- rbind(chi_results, adjusted)
 rownames(chi_results1) <- c("p.value", "FDR adjusted")
 
-write.csv(chi_results1, "/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/chi_results.csv")
+write.csv(chi_results1, "../chi_results.csv")
 
 
 # Mutation plot 
