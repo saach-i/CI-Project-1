@@ -3,7 +3,7 @@
 
 This repository contains the code required to reproduce the results presented in the following paper:
 
-S.Sachdev, H.Lu, S.Ghaem-Maghami, De-convoluting cancer genome evolution following TP53 mutation in high grade serous ovarian cancer (2023).
+S.Sachdev, H.Lu, S.Ghaem-Maghami. De-convoluting cancer genome evolution following TP53 mutation in high grade serous ovarian cancer (2023).
 
 # Code
 All RScripts used in this study are stored in the Script folder.
@@ -11,7 +11,7 @@ All RScripts used in this study are stored in the Script folder.
 The code for all graphics are embedded in each script.
 
 # Data
-All the data files required to reproduce the results in this paper are stored in the Data folder. This study used  publicly available datasets from the TCGA HGSOC study, [previously published](https://www.nature.com/articles/nature10166).
+All the data files required to reproduce the results in this paper are stored in the Data folder. This study used publicly available datasets from the TCGA HGSOC study, [Integrated genomic analyses of ovarian carcinoma](https://www.nature.com/articles/nature10166).
 
 ***TCGA Ploidy data*** contains the ploidy data, the output from ABSOLUTE.
 
@@ -25,7 +25,7 @@ All the data files required to reproduce the results in this paper are stored in
 
 ***TLSMCPclinical_ov_TCGA.RDS*** contains the output from the MCPcounter estimation, including TLS levels.
 
-***CORE _TCGA*** contains the 3 main GRanges objects (the summative segmented copy number object and the 2 larger, objects which define genomic ranges for deletions and gains).
+***CORE _TCGA*** contains the 3 main GRanges objects (the summative segmented copy number object and the 2 larger objects which define genomic ranges for deletions and gains).
 
 ***ClustNum*** contains the ploidy classification for each patient.
 
