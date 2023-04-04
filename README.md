@@ -3,7 +3,7 @@
 
 This repository contains the code required to reproduce the results presented in the following paper:
 
-S.Sachdev, H.Lu, S.Ghaem-Maghami. De-convoluting cancer genome evolution following TP53 mutation in high grade serous ovarian cancer (2023).
+S.Sachdev, H.Lu, S.Ghaem-Maghami. De-convoluting cancer genome evolution following *TP53* mutation in high grade serous ovarian cancer (2023).
 
 # Code
 All RScripts used in this study are stored in the Script folder.
