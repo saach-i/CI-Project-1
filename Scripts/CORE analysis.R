@@ -17,6 +17,7 @@ seg_tcga_del_core_df <- as.data.frame(seg_tcga_cnv_del_core)
 seg_tcga_amp_core_df <- as.data.frame(seg_tcga_cnv_amp_core)
 
 # patient segmentation data
+seg_tcga_cnv <- read.delim("../TCGA.OV.sampleMap_SNP6_nocnv_genomicSegment", sep="\t")
 rownames(seg_tcga_cnv) <- as.numeric(rownames(seg_tcga_cnv))
 
 # merging segmentation patient data with core results
