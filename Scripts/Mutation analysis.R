@@ -1,5 +1,5 @@
 # Mutational analysis 
-mut <- read.delim("/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/mutations_ov_tcga.txt", fill = T)
+mut <- read.delim("../mutations_ov_tcga.txt", fill = T)
 mut[, 2]<-gsub(mut[, 2], pattern="-", replace=".")
 mut_ploidy <- merge(ClustNum, mut, by.x =0, by.y = "SAMPLE_ID", all = FALSE)
 rownames(mut_ploidy) <- mut_ploidy$Row.names
