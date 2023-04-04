@@ -11,9 +11,9 @@ All RScripts used in this study are stored in the Script folder.
 The code for all graphics are embedded in each script.
 
 # Data
-All the data files required to reproduce the results in this paper are stored in the Data folder. This study used publicly available datasets from the TCGA HGSOC study, [Integrated genomic analyses of ovarian carcinoma](https://www.nature.com/articles/nature10166).
+All the data files required to reproduce the results in this paper are stored in the Data folder. This study used publicly available datasets from the published TCGA HGSOC study [Integrated genomic analyses of ovarian carcinoma](https://www.nature.com/articles/nature10166).
 
-***TCGA Ploidy data*** contains the ploidy data, the output from ABSOLUTE.
+***TCGA Ploidy data*** contains the output from *ABSOLUTE*, including the ploidy data.
 
 ***TCGA_ov_clinical*** contains the clinical data for this patient cohort, including survival outcomes.
 
