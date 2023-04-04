@@ -13,7 +13,7 @@ TCGA_ov_clinical contains the clinical data for this patient cohort, including s
 TCGA.OV.sampleMap_SNP6_nocnv_genomicSegment contains the segmented copy number data.
 limma_signficantCN_TCGA contains the all-lesions output from the GISTIC 2.0 analysis.
 mutations_ov_tcga contains the mutation data for the key HGSOC genes.
-TCGA_OV_MCP contains the output from the MCPcounter estimation, including TLS levels.
+TLSMCPclinical_ov_TCGA.RDS contains the output from the MCPcounter estimation, including TLS levels.
 
 # Code
 All RScripts used in this study are stored in the Script folder.
