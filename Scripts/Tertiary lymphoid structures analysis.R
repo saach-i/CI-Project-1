@@ -1,7 +1,7 @@
 # TLS analysis
 
 library(readr)
-TLS_TCGA <- read_rds("/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/RData/TLSMCPclinical_ov_TCGA.RDS")
+TLS_TCGA <- read_rds("../TLSMCPclinical_ov_TCGA.RDS")
 TLS_TCGA <- data.frame(TLS_TCGA[,-1], row.names=TLS_TCGA[,1])
 TLS_ploidy <- merge(ClustNum, TLS_TCGA, by = 0, all = FALSE)
 
