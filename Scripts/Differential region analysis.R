@@ -36,7 +36,7 @@ dge_cna_adjp_df <- dge_cna_adjp_df[, -1]
 
 dge_cna_adjp_df <- dge_cna_adjp_df[order(dge_cna_adjp_df$adj.P.Val), ]
 
-write.csv(dge_cna_adjp_df, "/Users/saachisachdev/GitHub/CI Project 1/CNV analysis/dge_cna_adjp_df.csv", row.names=TRUE)
+write.csv(dge_cna_adjp_df, "../dge_cna_adjp_df.csv", row.names=TRUE)
 
 # volcano plot
 library(EnhancedVolcano)
