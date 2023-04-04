@@ -20,7 +20,7 @@ All the data files required to reproduce the results in this paper are stored in
 
 ***TLSMCPclinical_ov_TCGA.RDS*** contains the output from the MCPcounter estimation, including TLS levels.
 
-***CORE _TCGA*** contains the 3 GRanges objects (the summative segmented copy number object and the 2 larger, objects which define genomic ranges for deletions and gains).
+***CORE _TCGA*** contains the 3 main GRanges objects (the summative segmented copy number object and the 2 larger, objects which define genomic ranges for deletions and gains).
 
 ***ClustNum*** contains the ploidy classification for each patient.
 
